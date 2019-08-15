@@ -1,0 +1,3 @@
+/home/irene/workspace/multi_partition/CMakeFiles/edit_cache.dir
+/home/irene/workspace/multi_partition/CMakeFiles/run.dir
+/home/irene/workspace/multi_partition/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1767 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APP_ARG_BSZ_CHARS	client/src/config.c	/^#define APP_ARG_BSZ_CHARS /;"	d	file:
+APP_ARG_BSZ_CHARS	old/config.c	/^#define APP_ARG_BSZ_CHARS /;"	d	file:
+APP_ARG_BSZ_CHARS	old/lb_config.c	/^#define APP_ARG_BSZ_CHARS /;"	d	file:
+APP_ARG_BSZ_CHARS	server/src/config.c	/^#define APP_ARG_BSZ_CHARS /;"	d	file:
+APP_ARG_BSZ_CHARS	src/config.c	/^#define APP_ARG_BSZ_CHARS /;"	d	file:
+APP_ARG_LPM_MAX_CHARS	client/src/config.c	/^#define APP_ARG_LPM_MAX_CHARS /;"	d	file:
+APP_ARG_LPM_MAX_CHARS	old/config.c	/^#define APP_ARG_LPM_MAX_CHARS /;"	d	file:
+APP_ARG_LPM_MAX_CHARS	old/lb_config.c	/^#define APP_ARG_LPM_MAX_CHARS /;"	d	file:
+APP_ARG_LPM_MAX_CHARS	server/src/config.c	/^#define APP_ARG_LPM_MAX_CHARS /;"	d	file:
+APP_ARG_LPM_MAX_CHARS	src/config.c	/^#define APP_ARG_LPM_MAX_CHARS /;"	d	file:
+APP_ARG_NUMERICAL_SIZE_CHARS	client/src/config.c	/^#define APP_ARG_NUMERICAL_SIZE_CHARS /;"	d	file:
+APP_ARG_NUMERICAL_SIZE_CHARS	old/config.c	/^#define APP_ARG_NUMERICAL_SIZE_CHARS /;"	d	file:
+APP_ARG_NUMERICAL_SIZE_CHARS	old/lb_config.c	/^#define APP_ARG_NUMERICAL_SIZE_CHARS /;"	d	file:
+APP_ARG_NUMERICAL_SIZE_CHARS	server/src/config.c	/^#define APP_ARG_NUMERICAL_SIZE_CHARS /;"	d	file:
+APP_ARG_NUMERICAL_SIZE_CHARS	src/config.c	/^#define APP_ARG_NUMERICAL_SIZE_CHARS /;"	d	file:
+APP_ARG_RSZ_CHARS	client/src/config.c	/^#define APP_ARG_RSZ_CHARS /;"	d	file:
+APP_ARG_RSZ_CHARS	old/config.c	/^#define APP_ARG_RSZ_CHARS /;"	d	file:
+APP_ARG_RSZ_CHARS	old/lb_config.c	/^#define APP_ARG_RSZ_CHARS /;"	d	file:
+APP_ARG_RSZ_CHARS	server/src/config.c	/^#define APP_ARG_RSZ_CHARS /;"	d	file:
+APP_ARG_RSZ_CHARS	src/config.c	/^#define APP_ARG_RSZ_CHARS /;"	d	file:
+APP_ARG_RX_MAX_CHARS	client/src/config.c	/^#define APP_ARG_RX_MAX_CHARS /;"	d	file:
+APP_ARG_RX_MAX_CHARS	old/config.c	/^#define APP_ARG_RX_MAX_CHARS /;"	d	file:
+APP_ARG_RX_MAX_CHARS	old/lb_config.c	/^#define APP_ARG_RX_MAX_CHARS /;"	d	file:
+APP_ARG_RX_MAX_CHARS	server/src/config.c	/^#define APP_ARG_RX_MAX_CHARS /;"	d	file:
+APP_ARG_RX_MAX_CHARS	src/config.c	/^#define APP_ARG_RX_MAX_CHARS /;"	d	file:
+APP_ARG_RX_MAX_TUPLES	client/src/config.c	/^#define APP_ARG_RX_MAX_TUPLES /;"	d	file:
+APP_ARG_RX_MAX_TUPLES	old/config.c	/^#define APP_ARG_RX_MAX_TUPLES /;"	d	file:
+APP_ARG_RX_MAX_TUPLES	old/lb_config.c	/^#define APP_ARG_RX_MAX_TUPLES /;"	d	file:
+APP_ARG_RX_MAX_TUPLES	server/src/config.c	/^#define APP_ARG_RX_MAX_TUPLES /;"	d	file:
+APP_ARG_RX_MAX_TUPLES	src/config.c	/^#define APP_ARG_RX_MAX_TUPLES /;"	d	file:
+APP_ARG_TX_MAX_CHARS	client/src/config.c	/^#define APP_ARG_TX_MAX_CHARS /;"	d	file:
+APP_ARG_TX_MAX_CHARS	old/config.c	/^#define APP_ARG_TX_MAX_CHARS /;"	d	file:
+APP_ARG_TX_MAX_CHARS	old/lb_config.c	/^#define APP_ARG_TX_MAX_CHARS /;"	d	file:
+APP_ARG_TX_MAX_CHARS	server/src/config.c	/^#define APP_ARG_TX_MAX_CHARS /;"	d	file:
+APP_ARG_TX_MAX_CHARS	src/config.c	/^#define APP_ARG_TX_MAX_CHARS /;"	d	file:
+APP_ARG_TX_MAX_TUPLES	client/src/config.c	/^#define APP_ARG_TX_MAX_TUPLES /;"	d	file:
+APP_ARG_TX_MAX_TUPLES	old/config.c	/^#define APP_ARG_TX_MAX_TUPLES /;"	d	file:
+APP_ARG_TX_MAX_TUPLES	old/lb_config.c	/^#define APP_ARG_TX_MAX_TUPLES /;"	d	file:
+APP_ARG_TX_MAX_TUPLES	server/src/config.c	/^#define APP_ARG_TX_MAX_TUPLES /;"	d	file:
+APP_ARG_TX_MAX_TUPLES	src/config.c	/^#define APP_ARG_TX_MAX_TUPLES /;"	d	file:
+APP_ARG_W_MAX_CHARS	client/src/config.c	/^#define APP_ARG_W_MAX_CHARS /;"	d	file:
+APP_ARG_W_MAX_CHARS	old/config.c	/^#define APP_ARG_W_MAX_CHARS /;"	d	file:
+APP_ARG_W_MAX_CHARS	old/lb_config.c	/^#define APP_ARG_W_MAX_CHARS /;"	d	file:
+APP_ARG_W_MAX_CHARS	server/src/config.c	/^#define APP_ARG_W_MAX_CHARS /;"	d	file:
+APP_ARG_W_MAX_CHARS	src/config.c	/^#define APP_ARG_W_MAX_CHARS /;"	d	file:
+APP_ARG_W_MAX_TUPLES	client/src/config.c	/^#define APP_ARG_W_MAX_TUPLES /;"	d	file:
+APP_ARG_W_MAX_TUPLES	old/config.c	/^#define APP_ARG_W_MAX_TUPLES /;"	d	file:
+APP_ARG_W_MAX_TUPLES	old/lb_config.c	/^#define APP_ARG_W_MAX_TUPLES /;"	d	file:
+APP_ARG_W_MAX_TUPLES	server/src/config.c	/^#define APP_ARG_W_MAX_TUPLES /;"	d	file:
+APP_ARG_W_MAX_TUPLES	src/config.c	/^#define APP_ARG_W_MAX_TUPLES /;"	d	file:
+APP_DEFAULT_BURST_SIZE_IO_RX_READ	client/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_RX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_READ	include/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_RX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_READ	old/lb_main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_RX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_READ	old/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_RX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_READ	server/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_RX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_WRITE	client/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_RX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_WRITE	include/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_RX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_WRITE	old/lb_main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_RX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_WRITE	old/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_RX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_RX_WRITE	server/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_RX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_READ	client/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_TX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_READ	include/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_TX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_READ	old/lb_main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_TX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_READ	old/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_TX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_READ	server/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_TX_READ /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_WRITE	client/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_TX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_WRITE	include/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_TX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_WRITE	old/lb_main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_TX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_WRITE	old/main.h	/^ #define APP_DEFAULT_BURST_SIZE_IO_TX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_IO_TX_WRITE	server/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_IO_TX_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_READ	client/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_WORKER_READ /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_READ	include/main.h	/^ #define APP_DEFAULT_BURST_SIZE_WORKER_READ /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_READ	old/lb_main.h	/^#define APP_DEFAULT_BURST_SIZE_WORKER_READ /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_READ	old/main.h	/^ #define APP_DEFAULT_BURST_SIZE_WORKER_READ /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_READ	server/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_WORKER_READ /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_WRITE	client/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_WORKER_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_WRITE	include/main.h	/^ #define APP_DEFAULT_BURST_SIZE_WORKER_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_WRITE	old/lb_main.h	/^#define APP_DEFAULT_BURST_SIZE_WORKER_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_WRITE	old/main.h	/^ #define APP_DEFAULT_BURST_SIZE_WORKER_WRITE /;"	d
+APP_DEFAULT_BURST_SIZE_WORKER_WRITE	server/include/main.h	/^#define APP_DEFAULT_BURST_SIZE_WORKER_WRITE /;"	d
+APP_DEFAULT_IO_RX_LB_POS	client/include/main.h	/^#define APP_DEFAULT_IO_RX_LB_POS /;"	d
+APP_DEFAULT_IO_RX_LB_POS	include/main.h	/^ #define APP_DEFAULT_IO_RX_LB_POS /;"	d
+APP_DEFAULT_IO_RX_LB_POS	old/lb_main.h	/^#define APP_DEFAULT_IO_RX_LB_POS /;"	d
+APP_DEFAULT_IO_RX_LB_POS	old/main.h	/^ #define APP_DEFAULT_IO_RX_LB_POS /;"	d
+APP_DEFAULT_IO_RX_LB_POS	server/include/main.h	/^#define APP_DEFAULT_IO_RX_LB_POS /;"	d
+APP_DEFAULT_MBUF_DATA_SIZE	client/include/main.h	/^#define APP_DEFAULT_MBUF_DATA_SIZE /;"	d
+APP_DEFAULT_MBUF_DATA_SIZE	include/main.h	/^ #define APP_DEFAULT_MBUF_DATA_SIZE /;"	d
+APP_DEFAULT_MBUF_DATA_SIZE	old/lb_main.h	/^#define APP_DEFAULT_MBUF_DATA_SIZE /;"	d
+APP_DEFAULT_MBUF_DATA_SIZE	old/main.h	/^ #define APP_DEFAULT_MBUF_DATA_SIZE /;"	d
+APP_DEFAULT_MBUF_DATA_SIZE	server/include/main.h	/^#define APP_DEFAULT_MBUF_DATA_SIZE /;"	d
+APP_DEFAULT_MEMPOOL_BUFFERS	client/include/main.h	/^#define APP_DEFAULT_MEMPOOL_BUFFERS /;"	d
+APP_DEFAULT_MEMPOOL_BUFFERS	include/main.h	/^ #define APP_DEFAULT_MEMPOOL_BUFFERS /;"	d
+APP_DEFAULT_MEMPOOL_BUFFERS	old/lb_main.h	/^#define APP_DEFAULT_MEMPOOL_BUFFERS /;"	d
+APP_DEFAULT_MEMPOOL_BUFFERS	old/main.h	/^ #define APP_DEFAULT_MEMPOOL_BUFFERS /;"	d
+APP_DEFAULT_MEMPOOL_BUFFERS	server/include/main.h	/^#define APP_DEFAULT_MEMPOOL_BUFFERS /;"	d
+APP_DEFAULT_MEMPOOL_CACHE_SIZE	client/include/main.h	/^#define APP_DEFAULT_MEMPOOL_CACHE_SIZE /;"	d
+APP_DEFAULT_MEMPOOL_CACHE_SIZE	include/main.h	/^ #define APP_DEFAULT_MEMPOOL_CACHE_SIZE /;"	d
+APP_DEFAULT_MEMPOOL_CACHE_SIZE	old/lb_main.h	/^#define APP_DEFAULT_MEMPOOL_CACHE_SIZE /;"	d
+APP_DEFAULT_MEMPOOL_CACHE_SIZE	old/main.h	/^ #define APP_DEFAULT_MEMPOOL_CACHE_SIZE /;"	d
+APP_DEFAULT_MEMPOOL_CACHE_SIZE	server/include/main.h	/^#define APP_DEFAULT_MEMPOOL_CACHE_SIZE /;"	d
+APP_DEFAULT_NIC_RX_DROP_EN	client/include/main.h	/^#define APP_DEFAULT_NIC_RX_DROP_EN /;"	d
+APP_DEFAULT_NIC_RX_DROP_EN	include/main.h	/^ #define APP_DEFAULT_NIC_RX_DROP_EN /;"	d
+APP_DEFAULT_NIC_RX_DROP_EN	old/lb_main.h	/^#define APP_DEFAULT_NIC_RX_DROP_EN /;"	d
+APP_DEFAULT_NIC_RX_DROP_EN	old/main.h	/^ #define APP_DEFAULT_NIC_RX_DROP_EN /;"	d
+APP_DEFAULT_NIC_RX_DROP_EN	server/include/main.h	/^#define APP_DEFAULT_NIC_RX_DROP_EN /;"	d
+APP_DEFAULT_NIC_RX_FREE_THRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_RX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_RX_FREE_THRESH	include/main.h	/^ #define APP_DEFAULT_NIC_RX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_RX_FREE_THRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_RX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_RX_FREE_THRESH	old/main.h	/^ #define APP_DEFAULT_NIC_RX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_RX_FREE_THRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_RX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_RX_HTHRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_RX_HTHRESH /;"	d
+APP_DEFAULT_NIC_RX_HTHRESH	include/main.h	/^ #define APP_DEFAULT_NIC_RX_HTHRESH /;"	d
+APP_DEFAULT_NIC_RX_HTHRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_RX_HTHRESH /;"	d
+APP_DEFAULT_NIC_RX_HTHRESH	old/main.h	/^ #define APP_DEFAULT_NIC_RX_HTHRESH /;"	d
+APP_DEFAULT_NIC_RX_HTHRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_RX_HTHRESH /;"	d
+APP_DEFAULT_NIC_RX_PTHRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_RX_PTHRESH /;"	d
+APP_DEFAULT_NIC_RX_PTHRESH	include/main.h	/^ #define APP_DEFAULT_NIC_RX_PTHRESH /;"	d
+APP_DEFAULT_NIC_RX_PTHRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_RX_PTHRESH /;"	d
+APP_DEFAULT_NIC_RX_PTHRESH	old/main.h	/^ #define APP_DEFAULT_NIC_RX_PTHRESH /;"	d
+APP_DEFAULT_NIC_RX_PTHRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_RX_PTHRESH /;"	d
+APP_DEFAULT_NIC_RX_RING_SIZE	client/include/main.h	/^#define APP_DEFAULT_NIC_RX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_RX_RING_SIZE	include/main.h	/^ #define APP_DEFAULT_NIC_RX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_RX_RING_SIZE	old/lb_main.h	/^#define APP_DEFAULT_NIC_RX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_RX_RING_SIZE	old/main.h	/^ #define APP_DEFAULT_NIC_RX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_RX_RING_SIZE	server/include/main.h	/^#define APP_DEFAULT_NIC_RX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_RX_WTHRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_RX_WTHRESH /;"	d
+APP_DEFAULT_NIC_RX_WTHRESH	include/main.h	/^ #define APP_DEFAULT_NIC_RX_WTHRESH /;"	d
+APP_DEFAULT_NIC_RX_WTHRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_RX_WTHRESH /;"	d
+APP_DEFAULT_NIC_RX_WTHRESH	old/main.h	/^ #define APP_DEFAULT_NIC_RX_WTHRESH /;"	d
+APP_DEFAULT_NIC_RX_WTHRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_RX_WTHRESH /;"	d
+APP_DEFAULT_NIC_TX_FREE_THRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_TX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_TX_FREE_THRESH	include/main.h	/^ #define APP_DEFAULT_NIC_TX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_TX_FREE_THRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_TX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_TX_FREE_THRESH	old/main.h	/^ #define APP_DEFAULT_NIC_TX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_TX_FREE_THRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_TX_FREE_THRESH /;"	d
+APP_DEFAULT_NIC_TX_HTHRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_TX_HTHRESH /;"	d
+APP_DEFAULT_NIC_TX_HTHRESH	include/main.h	/^ #define APP_DEFAULT_NIC_TX_HTHRESH /;"	d
+APP_DEFAULT_NIC_TX_HTHRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_TX_HTHRESH /;"	d
+APP_DEFAULT_NIC_TX_HTHRESH	old/main.h	/^ #define APP_DEFAULT_NIC_TX_HTHRESH /;"	d
+APP_DEFAULT_NIC_TX_HTHRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_TX_HTHRESH /;"	d
+APP_DEFAULT_NIC_TX_PTHRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_TX_PTHRESH /;"	d
+APP_DEFAULT_NIC_TX_PTHRESH	include/main.h	/^ #define APP_DEFAULT_NIC_TX_PTHRESH /;"	d
+APP_DEFAULT_NIC_TX_PTHRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_TX_PTHRESH /;"	d
+APP_DEFAULT_NIC_TX_PTHRESH	old/main.h	/^ #define APP_DEFAULT_NIC_TX_PTHRESH /;"	d
+APP_DEFAULT_NIC_TX_PTHRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_TX_PTHRESH /;"	d
+APP_DEFAULT_NIC_TX_RING_SIZE	client/include/main.h	/^#define APP_DEFAULT_NIC_TX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_TX_RING_SIZE	include/main.h	/^ #define APP_DEFAULT_NIC_TX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_TX_RING_SIZE	old/lb_main.h	/^#define APP_DEFAULT_NIC_TX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_TX_RING_SIZE	old/main.h	/^ #define APP_DEFAULT_NIC_TX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_TX_RING_SIZE	server/include/main.h	/^#define APP_DEFAULT_NIC_TX_RING_SIZE /;"	d
+APP_DEFAULT_NIC_TX_RS_THRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_TX_RS_THRESH /;"	d
+APP_DEFAULT_NIC_TX_RS_THRESH	include/main.h	/^ #define APP_DEFAULT_NIC_TX_RS_THRESH /;"	d
+APP_DEFAULT_NIC_TX_RS_THRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_TX_RS_THRESH /;"	d
+APP_DEFAULT_NIC_TX_RS_THRESH	old/main.h	/^ #define APP_DEFAULT_NIC_TX_RS_THRESH /;"	d
+APP_DEFAULT_NIC_TX_RS_THRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_TX_RS_THRESH /;"	d
+APP_DEFAULT_NIC_TX_WTHRESH	client/include/main.h	/^#define APP_DEFAULT_NIC_TX_WTHRESH /;"	d
+APP_DEFAULT_NIC_TX_WTHRESH	include/main.h	/^ #define APP_DEFAULT_NIC_TX_WTHRESH /;"	d
+APP_DEFAULT_NIC_TX_WTHRESH	old/lb_main.h	/^#define APP_DEFAULT_NIC_TX_WTHRESH /;"	d
+APP_DEFAULT_NIC_TX_WTHRESH	old/main.h	/^ #define APP_DEFAULT_NIC_TX_WTHRESH /;"	d
+APP_DEFAULT_NIC_TX_WTHRESH	server/include/main.h	/^#define APP_DEFAULT_NIC_TX_WTHRESH /;"	d
+APP_DEFAULT_RING_RX_SIZE	client/include/main.h	/^#define APP_DEFAULT_RING_RX_SIZE /;"	d
+APP_DEFAULT_RING_RX_SIZE	include/main.h	/^ #define APP_DEFAULT_RING_RX_SIZE /;"	d
+APP_DEFAULT_RING_RX_SIZE	old/lb_main.h	/^#define APP_DEFAULT_RING_RX_SIZE /;"	d
+APP_DEFAULT_RING_RX_SIZE	old/main.h	/^ #define APP_DEFAULT_RING_RX_SIZE /;"	d
+APP_DEFAULT_RING_RX_SIZE	server/include/main.h	/^#define APP_DEFAULT_RING_RX_SIZE /;"	d
+APP_DEFAULT_RING_TX_SIZE	client/include/main.h	/^#define APP_DEFAULT_RING_TX_SIZE /;"	d
+APP_DEFAULT_RING_TX_SIZE	include/main.h	/^ #define APP_DEFAULT_RING_TX_SIZE /;"	d
+APP_DEFAULT_RING_TX_SIZE	old/lb_main.h	/^#define APP_DEFAULT_RING_TX_SIZE /;"	d
+APP_DEFAULT_RING_TX_SIZE	old/main.h	/^ #define APP_DEFAULT_RING_TX_SIZE /;"	d
+APP_DEFAULT_RING_TX_SIZE	server/include/main.h	/^#define APP_DEFAULT_RING_TX_SIZE /;"	d
+APP_IO_RX_DROP_ALL_PACKETS	client/src/runtime.c	/^#define APP_IO_RX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_RX_DROP_ALL_PACKETS	old/lb_runtime.c	/^#define APP_IO_RX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_RX_DROP_ALL_PACKETS	old/runtime.c	/^#define APP_IO_RX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_RX_DROP_ALL_PACKETS	server/src/runtime.c	/^#define APP_IO_RX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_RX_DROP_ALL_PACKETS	src/runtime.c	/^#define APP_IO_RX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_RX_PREFETCH0	client/src/runtime.c	/^#define APP_IO_RX_PREFETCH0(/;"	d	file:
+APP_IO_RX_PREFETCH0	old/lb_runtime.c	/^#define APP_IO_RX_PREFETCH0(/;"	d	file:
+APP_IO_RX_PREFETCH0	old/runtime.c	/^#define APP_IO_RX_PREFETCH0(/;"	d	file:
+APP_IO_RX_PREFETCH0	server/src/runtime.c	/^#define APP_IO_RX_PREFETCH0(/;"	d	file:
+APP_IO_RX_PREFETCH0	src/runtime.c	/^#define APP_IO_RX_PREFETCH0(/;"	d	file:
+APP_IO_RX_PREFETCH1	client/src/runtime.c	/^#define APP_IO_RX_PREFETCH1(/;"	d	file:
+APP_IO_RX_PREFETCH1	old/lb_runtime.c	/^#define APP_IO_RX_PREFETCH1(/;"	d	file:
+APP_IO_RX_PREFETCH1	old/runtime.c	/^#define APP_IO_RX_PREFETCH1(/;"	d	file:
+APP_IO_RX_PREFETCH1	server/src/runtime.c	/^#define APP_IO_RX_PREFETCH1(/;"	d	file:
+APP_IO_RX_PREFETCH1	src/runtime.c	/^#define APP_IO_RX_PREFETCH1(/;"	d	file:
+APP_IO_RX_PREFETCH_ENABLE	client/src/runtime.c	/^#define APP_IO_RX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_RX_PREFETCH_ENABLE	old/lb_runtime.c	/^#define APP_IO_RX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_RX_PREFETCH_ENABLE	old/runtime.c	/^#define APP_IO_RX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_RX_PREFETCH_ENABLE	server/src/runtime.c	/^#define APP_IO_RX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_RX_PREFETCH_ENABLE	src/runtime.c	/^#define APP_IO_RX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_TX_DROP_ALL_PACKETS	client/src/runtime.c	/^#define APP_IO_TX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_TX_DROP_ALL_PACKETS	old/lb_runtime.c	/^#define APP_IO_TX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_TX_DROP_ALL_PACKETS	old/runtime.c	/^#define APP_IO_TX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_TX_DROP_ALL_PACKETS	server/src/runtime.c	/^#define APP_IO_TX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_TX_DROP_ALL_PACKETS	src/runtime.c	/^#define APP_IO_TX_DROP_ALL_PACKETS /;"	d	file:
+APP_IO_TX_PREFETCH0	client/src/runtime.c	/^#define APP_IO_TX_PREFETCH0(/;"	d	file:
+APP_IO_TX_PREFETCH0	old/lb_runtime.c	/^#define APP_IO_TX_PREFETCH0(/;"	d	file:
+APP_IO_TX_PREFETCH0	old/runtime.c	/^#define APP_IO_TX_PREFETCH0(/;"	d	file:
+APP_IO_TX_PREFETCH0	server/src/runtime.c	/^#define APP_IO_TX_PREFETCH0(/;"	d	file:
+APP_IO_TX_PREFETCH0	src/runtime.c	/^#define APP_IO_TX_PREFETCH0(/;"	d	file:
+APP_IO_TX_PREFETCH1	client/src/runtime.c	/^#define APP_IO_TX_PREFETCH1(/;"	d	file:
+APP_IO_TX_PREFETCH1	old/lb_runtime.c	/^#define APP_IO_TX_PREFETCH1(/;"	d	file:
+APP_IO_TX_PREFETCH1	old/runtime.c	/^#define APP_IO_TX_PREFETCH1(/;"	d	file:
+APP_IO_TX_PREFETCH1	server/src/runtime.c	/^#define APP_IO_TX_PREFETCH1(/;"	d	file:
+APP_IO_TX_PREFETCH1	src/runtime.c	/^#define APP_IO_TX_PREFETCH1(/;"	d	file:
+APP_IO_TX_PREFETCH_ENABLE	client/src/runtime.c	/^#define APP_IO_TX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_TX_PREFETCH_ENABLE	old/lb_runtime.c	/^#define APP_IO_TX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_TX_PREFETCH_ENABLE	old/runtime.c	/^#define APP_IO_TX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_TX_PREFETCH_ENABLE	server/src/runtime.c	/^#define APP_IO_TX_PREFETCH_ENABLE /;"	d	file:
+APP_IO_TX_PREFETCH_ENABLE	src/runtime.c	/^#define APP_IO_TX_PREFETCH_ENABLE /;"	d	file:
+APP_LCORE_IO_FLUSH	client/src/runtime.c	/^#define APP_LCORE_IO_FLUSH /;"	d	file:
+APP_LCORE_IO_FLUSH	old/lb_runtime.c	/^#define APP_LCORE_IO_FLUSH /;"	d	file:
+APP_LCORE_IO_FLUSH	old/runtime.c	/^#define APP_LCORE_IO_FLUSH /;"	d	file:
+APP_LCORE_IO_FLUSH	server/src/runtime.c	/^#define APP_LCORE_IO_FLUSH /;"	d	file:
+APP_LCORE_IO_FLUSH	src/runtime.c	/^#define APP_LCORE_IO_FLUSH /;"	d	file:
+APP_LCORE_WORKER_FLUSH	client/src/runtime.c	/^#define APP_LCORE_WORKER_FLUSH /;"	d	file:
+APP_LCORE_WORKER_FLUSH	old/lb_runtime.c	/^#define APP_LCORE_WORKER_FLUSH /;"	d	file:
+APP_LCORE_WORKER_FLUSH	old/runtime.c	/^#define APP_LCORE_WORKER_FLUSH /;"	d	file:
+APP_LCORE_WORKER_FLUSH	server/src/runtime.c	/^#define APP_LCORE_WORKER_FLUSH /;"	d	file:
+APP_LCORE_WORKER_FLUSH	src/runtime.c	/^#define APP_LCORE_WORKER_FLUSH /;"	d	file:
+APP_MAX_IO_LCORES	client/include/main.h	/^#define APP_MAX_IO_LCORES /;"	d
+APP_MAX_IO_LCORES	include/main.h	/^ #define APP_MAX_IO_LCORES /;"	d
+APP_MAX_IO_LCORES	old/lb_main.h	/^#define APP_MAX_IO_LCORES /;"	d
+APP_MAX_IO_LCORES	old/main.h	/^ #define APP_MAX_IO_LCORES /;"	d
+APP_MAX_IO_LCORES	server/include/main.h	/^#define APP_MAX_IO_LCORES /;"	d
+APP_MAX_LCORES	client/include/main.h	/^#define APP_MAX_LCORES /;"	d
+APP_MAX_LCORES	include/main.h	/^ #define APP_MAX_LCORES /;"	d
+APP_MAX_LCORES	old/lb_main.h	/^#define APP_MAX_LCORES /;"	d
+APP_MAX_LCORES	old/main.h	/^ #define APP_MAX_LCORES /;"	d
+APP_MAX_LCORES	server/include/main.h	/^#define APP_MAX_LCORES /;"	d
+APP_MAX_LPM_RULES	client/include/main.h	/^#define APP_MAX_LPM_RULES /;"	d
+APP_MAX_LPM_RULES	include/main.h	/^ #define APP_MAX_LPM_RULES /;"	d
+APP_MAX_LPM_RULES	old/lb_main.h	/^#define APP_MAX_LPM_RULES /;"	d
+APP_MAX_LPM_RULES	old/main.h	/^ #define APP_MAX_LPM_RULES /;"	d
+APP_MAX_LPM_RULES	server/include/main.h	/^#define APP_MAX_LPM_RULES /;"	d
+APP_MAX_NIC_PORTS	client/include/main.h	/^#define APP_MAX_NIC_PORTS /;"	d
+APP_MAX_NIC_PORTS	include/main.h	/^ #define APP_MAX_NIC_PORTS /;"	d
+APP_MAX_NIC_PORTS	old/lb_main.h	/^#define APP_MAX_NIC_PORTS /;"	d
+APP_MAX_NIC_PORTS	old/main.h	/^ #define APP_MAX_NIC_PORTS /;"	d
+APP_MAX_NIC_PORTS	server/include/main.h	/^#define APP_MAX_NIC_PORTS /;"	d
+APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE	client/include/main.h	/^#define APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE /;"	d
+APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE	include/main.h	/^ #define APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE /;"	d
+APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE	old/lb_main.h	/^#define APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE /;"	d
+APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE	old/main.h	/^ #define APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE /;"	d
+APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE	server/include/main.h	/^#define APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE /;"	d
+APP_MAX_NIC_TX_PORTS_PER_IO_LCORE	client/include/main.h	/^#define APP_MAX_NIC_TX_PORTS_PER_IO_LCORE /;"	d
+APP_MAX_NIC_TX_PORTS_PER_IO_LCORE	include/main.h	/^ #define APP_MAX_NIC_TX_PORTS_PER_IO_LCORE /;"	d
+APP_MAX_NIC_TX_PORTS_PER_IO_LCORE	old/lb_main.h	/^#define APP_MAX_NIC_TX_PORTS_PER_IO_LCORE /;"	d
+APP_MAX_NIC_TX_PORTS_PER_IO_LCORE	old/main.h	/^ #define APP_MAX_NIC_TX_PORTS_PER_IO_LCORE /;"	d
+APP_MAX_NIC_TX_PORTS_PER_IO_LCORE	server/include/main.h	/^#define APP_MAX_NIC_TX_PORTS_PER_IO_LCORE /;"	d
+APP_MAX_RX_QUEUES_PER_NIC_PORT	client/include/main.h	/^#define APP_MAX_RX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_RX_QUEUES_PER_NIC_PORT	include/main.h	/^ #define APP_MAX_RX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_RX_QUEUES_PER_NIC_PORT	old/lb_main.h	/^#define APP_MAX_RX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_RX_QUEUES_PER_NIC_PORT	old/main.h	/^ #define APP_MAX_RX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_RX_QUEUES_PER_NIC_PORT	server/include/main.h	/^#define APP_MAX_RX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_SOCKETS	client/include/main.h	/^#define APP_MAX_SOCKETS /;"	d
+APP_MAX_SOCKETS	include/main.h	/^ #define APP_MAX_SOCKETS /;"	d
+APP_MAX_SOCKETS	old/lb_main.h	/^#define APP_MAX_SOCKETS /;"	d
+APP_MAX_SOCKETS	old/main.h	/^ #define APP_MAX_SOCKETS /;"	d
+APP_MAX_SOCKETS	server/include/main.h	/^#define APP_MAX_SOCKETS /;"	d
+APP_MAX_TX_QUEUES_PER_NIC_PORT	client/include/main.h	/^#define APP_MAX_TX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_TX_QUEUES_PER_NIC_PORT	include/main.h	/^ #define APP_MAX_TX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_TX_QUEUES_PER_NIC_PORT	old/lb_main.h	/^#define APP_MAX_TX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_TX_QUEUES_PER_NIC_PORT	old/main.h	/^ #define APP_MAX_TX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_TX_QUEUES_PER_NIC_PORT	server/include/main.h	/^#define APP_MAX_TX_QUEUES_PER_NIC_PORT /;"	d
+APP_MAX_WORKER_LCORES	client/include/main.h	/^#define APP_MAX_WORKER_LCORES /;"	d
+APP_MAX_WORKER_LCORES	include/main.h	/^ #define APP_MAX_WORKER_LCORES /;"	d
+APP_MAX_WORKER_LCORES	old/lb_main.h	/^#define APP_MAX_WORKER_LCORES /;"	d
+APP_MAX_WORKER_LCORES	old/main.h	/^ #define APP_MAX_WORKER_LCORES /;"	d
+APP_MAX_WORKER_LCORES	server/include/main.h	/^#define APP_MAX_WORKER_LCORES /;"	d
+APP_MBUF_ARRAY_SIZE	client/include/main.h	/^#define APP_MBUF_ARRAY_SIZE /;"	d
+APP_MBUF_ARRAY_SIZE	include/main.h	/^ #define APP_MBUF_ARRAY_SIZE /;"	d
+APP_MBUF_ARRAY_SIZE	old/lb_main.h	/^#define APP_MBUF_ARRAY_SIZE /;"	d
+APP_MBUF_ARRAY_SIZE	old/main.h	/^ #define APP_MBUF_ARRAY_SIZE /;"	d
+APP_MBUF_ARRAY_SIZE	server/include/main.h	/^#define APP_MBUF_ARRAY_SIZE /;"	d
+APP_STATS	old/lb_runtime.c	/^#define APP_STATS /;"	d	file:
+APP_WORKER_DROP_ALL_PACKETS	client/src/runtime.c	/^#define APP_WORKER_DROP_ALL_PACKETS /;"	d	file:
+APP_WORKER_DROP_ALL_PACKETS	old/lb_runtime.c	/^#define APP_WORKER_DROP_ALL_PACKETS /;"	d	file:
+APP_WORKER_DROP_ALL_PACKETS	old/runtime.c	/^#define APP_WORKER_DROP_ALL_PACKETS /;"	d	file:
+APP_WORKER_DROP_ALL_PACKETS	server/src/runtime.c	/^#define APP_WORKER_DROP_ALL_PACKETS /;"	d	file:
+APP_WORKER_DROP_ALL_PACKETS	src/runtime.c	/^#define APP_WORKER_DROP_ALL_PACKETS /;"	d	file:
+APP_WORKER_PREFETCH0	client/src/runtime.c	/^#define APP_WORKER_PREFETCH0(/;"	d	file:
+APP_WORKER_PREFETCH0	old/lb_runtime.c	/^#define APP_WORKER_PREFETCH0(/;"	d	file:
+APP_WORKER_PREFETCH0	old/runtime.c	/^#define APP_WORKER_PREFETCH0(/;"	d	file:
+APP_WORKER_PREFETCH0	server/src/runtime.c	/^#define APP_WORKER_PREFETCH0(/;"	d	file:
+APP_WORKER_PREFETCH0	src/runtime.c	/^#define APP_WORKER_PREFETCH0(/;"	d	file:
+APP_WORKER_PREFETCH1	client/src/runtime.c	/^#define APP_WORKER_PREFETCH1(/;"	d	file:
+APP_WORKER_PREFETCH1	old/lb_runtime.c	/^#define APP_WORKER_PREFETCH1(/;"	d	file:
+APP_WORKER_PREFETCH1	old/runtime.c	/^#define APP_WORKER_PREFETCH1(/;"	d	file:
+APP_WORKER_PREFETCH1	server/src/runtime.c	/^#define APP_WORKER_PREFETCH1(/;"	d	file:
+APP_WORKER_PREFETCH1	src/runtime.c	/^#define APP_WORKER_PREFETCH1(/;"	d	file:
+APP_WORKER_PREFETCH_ENABLE	client/src/runtime.c	/^#define APP_WORKER_PREFETCH_ENABLE /;"	d	file:
+APP_WORKER_PREFETCH_ENABLE	old/lb_runtime.c	/^#define APP_WORKER_PREFETCH_ENABLE /;"	d	file:
+APP_WORKER_PREFETCH_ENABLE	old/runtime.c	/^#define APP_WORKER_PREFETCH_ENABLE /;"	d	file:
+APP_WORKER_PREFETCH_ENABLE	server/src/runtime.c	/^#define APP_WORKER_PREFETCH_ENABLE /;"	d	file:
+APP_WORKER_PREFETCH_ENABLE	src/runtime.c	/^#define APP_WORKER_PREFETCH_ENABLE /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+BURST_SIZE	old/basic_fwd.c	/^#define BURST_SIZE /;"	d	file:
+BURST_SIZE	old/old_test.c	/^#define BURST_SIZE /;"	d	file:
+BURST_SIZE	old/test.c	/^#define BURST_SIZE /;"	d	file:
+CHECK_INTERVAL	client/src/init.c	/^#define CHECK_INTERVAL /;"	d	file:
+CHECK_INTERVAL	old/init.c	/^#define CHECK_INTERVAL /;"	d	file:
+CHECK_INTERVAL	old/lb_init.c	/^#define CHECK_INTERVAL /;"	d	file:
+CHECK_INTERVAL	server/src/init.c	/^#define CHECK_INTERVAL /;"	d	file:
+CHECK_INTERVAL	src/init.c	/^#define CHECK_INTERVAL /;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/irene\/workspace\/multi_partition\/build$/;"	m
+CMAKE_BINARY_DIR	build/client/Makefile	/^CMAKE_BINARY_DIR = \/home\/irene\/workspace\/multi_partition\/build\/client$/;"	m
+CMAKE_BINARY_DIR	build/server/Makefile	/^CMAKE_BINARY_DIR = \/home\/irene\/workspace\/multi_partition\/build\/server$/;"	m
+CMAKE_BINARY_DIR	client/Makefile	/^CMAKE_BINARY_DIR = \/home\/irene\/workspace\/multi_partition$/;"	m
+CMAKE_BINARY_DIR	server/Makefile	/^CMAKE_BINARY_DIR = \/home\/irene\/workspace\/multi_partition$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/client/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/server/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	client/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	server/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/irene\/workspace\/multi_partition$/;"	m
+CMAKE_SOURCE_DIR	build/client/Makefile	/^CMAKE_SOURCE_DIR = \/home\/irene\/workspace\/multi_partition\/client$/;"	m
+CMAKE_SOURCE_DIR	build/server/Makefile	/^CMAKE_SOURCE_DIR = \/home\/irene\/workspace\/multi_partition\/server$/;"	m
+CMAKE_SOURCE_DIR	client/Makefile	/^CMAKE_SOURCE_DIR = \/home\/irene\/workspace\/multi_partition$/;"	m
+CMAKE_SOURCE_DIR	server/Makefile	/^CMAKE_SOURCE_DIR = \/home\/irene\/workspace\/multi_partition$/;"	m
+COMMAND	old/rocksdb_main.c	/^} COMMAND;$/;"	t	typeref:struct:__anon11	file:
+COMPILER_ID	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+DEC	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DEC	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DEC	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+DEC	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/client/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/server/Makefile	/^EQUALS = =$/;"	m
+EQUALS	client/Makefile	/^EQUALS = =$/;"	m
+EQUALS	server/Makefile	/^EQUALS = =$/;"	m
+ETHER_TYPE_STP	old/test.c	/^#define ETHER_TYPE_STP /;"	d	file:
+HEX	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+HEX	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+HEX	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+HEX	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+ID_VOID_MAIN	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+ID_VOID_MAIN	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+ID_VOID_MAIN	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+ID_VOID_MAIN	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+MAXBUFSIZE	client/include/datastore.h	/^#define MAXBUFSIZE /;"	d
+MAXBUFSIZE	include/datastore.h	/^#define MAXBUFSIZE /;"	d
+MAXBUFSIZE	old/datastore.h	/^#define MAXBUFSIZE /;"	d
+MAXBUFSIZE	old/old_server.c	/^#define MAXBUFSIZE /;"	d	file:
+MAXBUFSIZE	old/server.c	/^#define MAXBUFSIZE /;"	d	file:
+MAXBUFSIZE	server/include/datastore.h	/^#define MAXBUFSIZE /;"	d
+MAXBUFSIZE	src_alternate/datastore.h	/^#define MAXBUFSIZE /;"	d
+MAXWAITTIME	old/client.c	/^#define MAXWAITTIME /;"	d	file:
+MAX_CHECK_TIME	client/src/init.c	/^#define MAX_CHECK_TIME /;"	d	file:
+MAX_CHECK_TIME	old/init.c	/^#define MAX_CHECK_TIME /;"	d	file:
+MAX_CHECK_TIME	old/lb_init.c	/^#define MAX_CHECK_TIME /;"	d	file:
+MAX_CHECK_TIME	server/src/init.c	/^#define MAX_CHECK_TIME /;"	d	file:
+MAX_CHECK_TIME	src/init.c	/^#define MAX_CHECK_TIME /;"	d	file:
+MAX_CLIENTS	client/include/common.h	/^#define MAX_CLIENTS /;"	d
+MAX_HMAP_ELEMENTS	old/hashmap.h	/^#define MAX_HMAP_ELEMENTS /;"	d
+MAX_NB_PARTITION	client/include/datastore.h	/^#define MAX_NB_PARTITION /;"	d
+MAX_NB_PARTITION	include/datastore.h	/^#define MAX_NB_PARTITION /;"	d
+MAX_NB_PARTITION	old/datastore.h	/^#define MAX_NB_PARTITION /;"	d
+MAX_NB_PARTITION	server/include/datastore.h	/^#define MAX_NB_PARTITION /;"	d
+MAX_NB_PARTITION	src_alternate/datastore.h	/^#define MAX_NB_PARTITION /;"	d
+MAX_NUM_ELEMENTS	old/rocksdb_main.c	/^#define MAX_NUM_ELEMENTS /;"	d	file:
+MAX_NUM_KEYS	client/src/datastore.c	/^#define MAX_NUM_KEYS /;"	d	file:
+MAX_NUM_KEYS	old/datastore.c	/^#define MAX_NUM_KEYS /;"	d	file:
+MAX_NUM_KEYS	server/src/datastore.c	/^#define MAX_NUM_KEYS /;"	d	file:
+MAX_NUM_KEYS	src/datastore.c	/^#define MAX_NUM_KEYS /;"	d	file:
+MAX_WORKER_CORE	client/include/datastore.h	/^#define MAX_WORKER_CORE /;"	d
+MAX_WORKER_CORE	include/datastore.h	/^#define MAX_WORKER_CORE /;"	d
+MAX_WORKER_CORE	old/datastore.h	/^#define MAX_WORKER_CORE /;"	d
+MAX_WORKER_CORE	old/old_datastore.h	/^#define MAX_WORKER_CORE /;"	d
+MAX_WORKER_CORE	server/include/datastore.h	/^#define MAX_WORKER_CORE /;"	d
+MAX_WORKER_CORE	src_alternate/datastore.h	/^#define MAX_WORKER_CORE /;"	d
+MBQ_CAPACITY	client/cmake/client.c	/^#define MBQ_CAPACITY /;"	d	file:
+MBQ_CAPACITY	old/example_client.c	/^#define MBQ_CAPACITY /;"	d	file:
+MBQ_CAPACITY	old/multi_process_client.c	/^#define MBQ_CAPACITY /;"	d	file:
+MBUF_CACHE_SIZE	old/basic_fwd.c	/^#define MBUF_CACHE_SIZE /;"	d	file:
+MBUF_CACHE_SIZE	old/old_test.c	/^#define MBUF_CACHE_SIZE /;"	d	file:
+MBUF_CACHE_SIZE	old/test.c	/^#define MBUF_CACHE_SIZE /;"	d	file:
+MP_CLIENT_RXQ_NAME	client/include/common.h	/^#define MP_CLIENT_RXQ_NAME /;"	d
+MULTI	old/datastore.h	/^enum app_message_type { SINGLE = 0, MULTI = 1 };$/;"	e	enum:app_message_type
+MULTI	src_alternate/datastore.h	/^	MULTI = 1$/;"	e	enum:app_message_type
+MZ_PORT_INFO	client/include/common.h	/^#define MZ_PORT_INFO /;"	d
+NUM_MBUFS	old/basic_fwd.c	/^#define NUM_MBUFS /;"	d	file:
+NUM_MBUFS	old/old_test.c	/^#define NUM_MBUFS /;"	d	file:
+NUM_MBUFS	old/test.c	/^#define NUM_MBUFS /;"	d	file:
+PACKET_READ_SIZE	old/multi_process_server.c	/^#define PACKET_READ_SIZE /;"	d	file:
+PKTMBUF_POOL_NAME	client/include/common.h	/^#define PKTMBUF_POOL_NAME /;"	d
+PKT_READ_SIZE	client/cmake/client.c	/^#define PKT_READ_SIZE /;"	d	file:
+PKT_READ_SIZE	old/example_client.c	/^#define PKT_READ_SIZE /;"	d	file:
+PKT_READ_SIZE	old/multi_process_client.c	/^#define PKT_READ_SIZE /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PORT	old/old_server.c	/^#define PORT /;"	d	file:
+PORT	old/server.c	/^#define PORT /;"	d	file:
+REQUESTBUFSIZE	old/client.c	/^#define REQUESTBUFSIZE /;"	d	file:
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/client/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/server/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	client/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	server/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RTE_LOGTYPE_APP	client/include/common.h	/^#define RTE_LOGTYPE_APP /;"	d
+RTE_LOGTYPE_PAXOS	old/test.c	/^#define RTE_LOGTYPE_PAXOS /;"	d	file:
+RX_RING_SIZE	old/basic_fwd.c	/^#define RX_RING_SIZE /;"	d	file:
+RX_RING_SIZE	old/old_test.c	/^#define RX_RING_SIZE /;"	d	file:
+RX_RING_SIZE	old/test.c	/^#define RX_RING_SIZE /;"	d	file:
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/client/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/server/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	client/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	server/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SINGLE	old/datastore.h	/^enum app_message_type { SINGLE = 0, MULTI = 1 };$/;"	e	enum:app_message_type
+SINGLE	src_alternate/datastore.h	/^	SINGLE = 0,$/;"	e	enum:app_message_type
+STRINGIFY	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/client/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/server/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	client/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	server/Makefile	/^SUFFIXES =$/;"	m
+TX_RING_SIZE	old/basic_fwd.c	/^#define TX_RING_SIZE /;"	d	file:
+TX_RING_SIZE	old/old_test.c	/^#define TX_RING_SIZE /;"	d	file:
+TX_RING_SIZE	old/test.c	/^#define TX_RING_SIZE /;"	d	file:
+_COMMON_H_	client/include/common.h	/^#define _COMMON_H_$/;"	d
+_MAIN_H_	client/include/main.h	/^#define _MAIN_H_$/;"	d
+_MAIN_H_	include/main.h	/^ #define _MAIN_H_$/;"	d
+_MAIN_H_	old/lb_main.h	/^#define _MAIN_H_$/;"	d
+_MAIN_H_	old/main.h	/^ #define _MAIN_H_$/;"	d
+_MAIN_H_	server/include/main.h	/^#define _MAIN_H_$/;"	d
+_NET_UTIL_H_	client/include/net_util.h	/^#define _NET_UTIL_H_$/;"	d
+__rte_cache_aligned	client/include/common.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:rx_stats
+__rte_cache_aligned	client/include/common.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:tx_stats
+__rte_cache_aligned	client/include/main.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:app_lcore_params
+__rte_cache_aligned	include/main.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:app_lcore_params
+__rte_cache_aligned	old/lb_main.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:app_lcore_params
+__rte_cache_aligned	old/lb_main.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:app_params
+__rte_cache_aligned	old/main.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:app_lcore_params
+__rte_cache_aligned	server/include/main.h	/^} __rte_cache_aligned;$/;"	v	typeref:struct:app_lcore_params
+add_timestamps	old/old_test.c	/^add_timestamps(uint16_t port __rte_unused, uint16_t qidx __rte_unused,$/;"	f	file:
+add_timestamps	old/test.c	/^add_timestamps(uint16_t port __rte_unused, uint16_t qidx __rte_unused,$/;"	f	file:
+app	client/src/config.c	/^struct app_params app;$/;"	v	typeref:struct:app_params
+app	old/config.c	/^struct app_params app;$/;"	v	typeref:struct:app_params
+app	old/lb_config.c	/^struct app_params app;$/;"	v	typeref:struct:app_params
+app	server/src/config.c	/^struct app_params app;$/;"	v	typeref:struct:app_params
+app	src/config.c	/^struct app_params app;$/;"	v	typeref:struct:app_params
+app_assign_worker_ids	client/src/init.c	/^app_assign_worker_ids(void)$/;"	f	file:
+app_assign_worker_ids	old/init.c	/^app_assign_worker_ids(void)$/;"	f	file:
+app_assign_worker_ids	old/lb_init.c	/^app_assign_worker_ids(void)$/;"	f	file:
+app_assign_worker_ids	server/src/init.c	/^app_assign_worker_ids(void)$/;"	f	file:
+app_assign_worker_ids	src/init.c	/^app_assign_worker_ids(void)$/;"	f	file:
+app_check_every_rx_port_is_tx_enabled	client/src/config.c	/^app_check_every_rx_port_is_tx_enabled(void)$/;"	f	file:
+app_check_every_rx_port_is_tx_enabled	old/config.c	/^app_check_every_rx_port_is_tx_enabled(void)$/;"	f	file:
+app_check_every_rx_port_is_tx_enabled	old/lb_config.c	/^app_check_every_rx_port_is_tx_enabled(void)$/;"	f	file:
+app_check_every_rx_port_is_tx_enabled	server/src/config.c	/^app_check_every_rx_port_is_tx_enabled(void)$/;"	f	file:
+app_check_every_rx_port_is_tx_enabled	src/config.c	/^app_check_every_rx_port_is_tx_enabled(void)$/;"	f	file:
+app_check_lpm_table	client/src/config.c	/^app_check_lpm_table(void)$/;"	f	file:
+app_check_lpm_table	old/config.c	/^app_check_lpm_table(void)$/;"	f	file:
+app_check_lpm_table	old/lb_config.c	/^app_check_lpm_table(void)$/;"	f	file:
+app_check_lpm_table	server/src/config.c	/^app_check_lpm_table(void)$/;"	f	file:
+app_check_lpm_table	src/config.c	/^app_check_lpm_table(void)$/;"	f	file:
+app_get_lcore_for_nic_rx	client/src/config.c	/^int app_get_lcore_for_nic_rx(uint16_t port, uint8_t queue, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_rx	old/config.c	/^int app_get_lcore_for_nic_rx(uint16_t port, uint8_t queue, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_rx	old/lb_config.c	/^int app_get_lcore_for_nic_rx(uint16_t port, uint8_t queue, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_rx	server/src/config.c	/^int app_get_lcore_for_nic_rx(uint16_t port, uint8_t queue, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_rx	src/config.c	/^int app_get_lcore_for_nic_rx(uint16_t port, uint8_t queue, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_tx	client/src/config.c	/^int app_get_lcore_for_nic_tx(uint16_t port, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_tx	old/config.c	/^int app_get_lcore_for_nic_tx(uint16_t port, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_tx	old/lb_config.c	/^int app_get_lcore_for_nic_tx(uint16_t port, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_tx	server/src/config.c	/^int app_get_lcore_for_nic_tx(uint16_t port, uint32_t *lcore_out)$/;"	f
+app_get_lcore_for_nic_tx	src/config.c	/^int app_get_lcore_for_nic_tx(uint16_t port, uint32_t *lcore_out)$/;"	f
+app_get_lcore_worker	client/src/client.c	/^int app_get_lcore_worker(uint32_t worker_id) {$/;"	f
+app_get_lcores_io_rx	client/src/config.c	/^app_get_lcores_io_rx(void)$/;"	f
+app_get_lcores_io_rx	old/config.c	/^app_get_lcores_io_rx(void)$/;"	f
+app_get_lcores_io_rx	old/lb_config.c	/^app_get_lcores_io_rx(void)$/;"	f
+app_get_lcores_io_rx	server/src/config.c	/^app_get_lcores_io_rx(void)$/;"	f
+app_get_lcores_io_rx	src/config.c	/^app_get_lcores_io_rx(void)$/;"	f
+app_get_lcores_worker	client/src/config.c	/^app_get_lcores_worker(void)$/;"	f
+app_get_lcores_worker	old/config.c	/^app_get_lcores_worker(void)$/;"	f
+app_get_lcores_worker	old/lb_config.c	/^app_get_lcores_worker(void)$/;"	f
+app_get_lcores_worker	server/src/config.c	/^app_get_lcores_worker(void)$/;"	f
+app_get_lcores_worker	src/config.c	/^app_get_lcores_worker(void)$/;"	f
+app_get_nic_rx_queues_per_port	client/src/config.c	/^int app_get_nic_rx_queues_per_port(uint16_t port)$/;"	f
+app_get_nic_rx_queues_per_port	old/config.c	/^int app_get_nic_rx_queues_per_port(uint16_t port)$/;"	f
+app_get_nic_rx_queues_per_port	old/lb_config.c	/^int app_get_nic_rx_queues_per_port(uint16_t port)$/;"	f
+app_get_nic_rx_queues_per_port	server/src/config.c	/^int app_get_nic_rx_queues_per_port(uint16_t port)$/;"	f
+app_get_nic_rx_queues_per_port	src/config.c	/^int app_get_nic_rx_queues_per_port(uint16_t port)$/;"	f
+app_hdr	client/include/datastore.h	/^struct app_hdr {$/;"	s
+app_hdr	include/datastore.h	/^struct app_hdr {$/;"	s
+app_hdr	old/datastore.h	/^struct app_hdr {$/;"	s
+app_hdr	server/include/datastore.h	/^struct app_hdr {$/;"	s
+app_hdr	src_alternate/datastore.h	/^struct app_hdr{$/;"	s
+app_init	client/src/init.c	/^void app_init(void)$/;"	f
+app_init	old/init.c	/^void app_init(void)$/;"	f
+app_init	old/lb_init.c	/^void app_init(void)$/;"	f
+app_init	server/src/init.c	/^void app_init(void)$/;"	f
+app_init	src/init.c	/^void app_init(void)$/;"	f
+app_init_lpm_tables	client/src/init.c	/^app_init_lpm_tables(void)$/;"	f	file:
+app_init_lpm_tables	old/init.c	/^app_init_lpm_tables(void)$/;"	f	file:
+app_init_lpm_tables	old/lb_init.c	/^app_init_lpm_tables(void)$/;"	f	file:
+app_init_lpm_tables	server/src/init.c	/^app_init_lpm_tables(void)$/;"	f	file:
+app_init_lpm_tables	src/init.c	/^app_init_lpm_tables(void)$/;"	f	file:
+app_init_mbuf_pools	client/src/init.c	/^app_init_mbuf_pools(void)$/;"	f	file:
+app_init_mbuf_pools	old/init.c	/^app_init_mbuf_pools(void)$/;"	f	file:
+app_init_mbuf_pools	old/lb_init.c	/^app_init_mbuf_pools(void)$/;"	f	file:
+app_init_mbuf_pools	server/src/init.c	/^app_init_mbuf_pools(void)$/;"	f	file:
+app_init_mbuf_pools	src/init.c	/^app_init_mbuf_pools(void)$/;"	f	file:
+app_init_nics	client/src/init.c	/^app_init_nics(void)$/;"	f	file:
+app_init_nics	old/init.c	/^app_init_nics(void)$/;"	f	file:
+app_init_nics	old/lb_init.c	/^app_init_nics(void)$/;"	f	file:
+app_init_nics	server/src/init.c	/^app_init_nics(void)$/;"	f	file:
+app_init_nics	src/init.c	/^app_init_nics(void)$/;"	f	file:
+app_init_rings_rx	client/src/init.c	/^app_init_rings_rx(void)$/;"	f	file:
+app_init_rings_rx	old/init.c	/^app_init_rings_rx(void)$/;"	f	file:
+app_init_rings_rx	old/lb_init.c	/^app_init_rings_rx(void)$/;"	f	file:
+app_init_rings_rx	server/src/init.c	/^app_init_rings_rx(void)$/;"	f	file:
+app_init_rings_rx	src/init.c	/^app_init_rings_rx(void)$/;"	f	file:
+app_init_rings_tx	client/src/init.c	/^app_init_rings_tx(void)$/;"	f	file:
+app_init_rings_tx	old/init.c	/^app_init_rings_tx(void)$/;"	f	file:
+app_init_rings_tx	old/lb_init.c	/^app_init_rings_tx(void)$/;"	f	file:
+app_init_rings_tx	server/src/init.c	/^app_init_rings_tx(void)$/;"	f	file:
+app_init_rings_tx	src/init.c	/^app_init_rings_tx(void)$/;"	f	file:
+app_is_socket_used	client/src/config.c	/^int app_is_socket_used(uint32_t socket)$/;"	f
+app_is_socket_used	old/config.c	/^int app_is_socket_used(uint32_t socket)$/;"	f
+app_is_socket_used	old/lb_config.c	/^int app_is_socket_used(uint32_t socket)$/;"	f
+app_is_socket_used	server/src/config.c	/^int app_is_socket_used(uint32_t socket)$/;"	f
+app_is_socket_used	src/config.c	/^int app_is_socket_used(uint32_t socket)$/;"	f
+app_lcore_io_rx	client/src/runtime.c	/^static inline void app_lcore_io_rx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_rx	old/lb_runtime.c	/^app_lcore_io_rx($/;"	f	file:
+app_lcore_io_rx	old/runtime.c	/^static inline void app_lcore_io_rx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_rx	server/src/runtime.c	/^static inline void app_lcore_io_rx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_rx	src/runtime.c	/^static inline void app_lcore_io_rx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_rx_buffer_to_send	client/src/runtime.c	/^app_lcore_io_rx_buffer_to_send(struct app_lcore_params_io *lp, uint32_t worker,$/;"	f	file:
+app_lcore_io_rx_buffer_to_send	old/lb_runtime.c	/^app_lcore_io_rx_buffer_to_send($/;"	f	file:
+app_lcore_io_rx_buffer_to_send	old/runtime.c	/^app_lcore_io_rx_buffer_to_send(struct app_lcore_params_io *lp, uint32_t worker,$/;"	f	file:
+app_lcore_io_rx_buffer_to_send	server/src/runtime.c	/^app_lcore_io_rx_buffer_to_send(struct app_lcore_params_io *lp, uint32_t worker,$/;"	f	file:
+app_lcore_io_rx_buffer_to_send	src/runtime.c	/^app_lcore_io_rx_buffer_to_send(struct app_lcore_params_io *lp, uint32_t worker,$/;"	f	file:
+app_lcore_io_rx_flush	client/src/runtime.c	/^static inline void app_lcore_io_rx_flush(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_rx_flush	old/lb_runtime.c	/^app_lcore_io_rx_flush(struct app_lcore_params_io *lp, uint32_t n_workers)$/;"	f	file:
+app_lcore_io_rx_flush	old/runtime.c	/^static inline void app_lcore_io_rx_flush(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_rx_flush	server/src/runtime.c	/^static inline void app_lcore_io_rx_flush(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_rx_flush	src/runtime.c	/^static inline void app_lcore_io_rx_flush(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_tx	client/src/runtime.c	/^static inline void app_lcore_io_tx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_tx	old/lb_runtime.c	/^app_lcore_io_tx($/;"	f	file:
+app_lcore_io_tx	old/runtime.c	/^static inline void app_lcore_io_tx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_tx	server/src/runtime.c	/^static inline void app_lcore_io_tx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_tx	src/runtime.c	/^static inline void app_lcore_io_tx(struct app_lcore_params_io *lp,$/;"	f	file:
+app_lcore_io_tx_flush	client/src/runtime.c	/^static inline void app_lcore_io_tx_flush(struct app_lcore_params_io *lp) {$/;"	f	file:
+app_lcore_io_tx_flush	old/lb_runtime.c	/^app_lcore_io_tx_flush(struct app_lcore_params_io *lp)$/;"	f	file:
+app_lcore_io_tx_flush	old/runtime.c	/^static inline void app_lcore_io_tx_flush(struct app_lcore_params_io *lp) {$/;"	f	file:
+app_lcore_io_tx_flush	server/src/runtime.c	/^static inline void app_lcore_io_tx_flush(struct app_lcore_params_io *lp) {$/;"	f	file:
+app_lcore_io_tx_flush	src/runtime.c	/^static inline void app_lcore_io_tx_flush(struct app_lcore_params_io *lp) {$/;"	f	file:
+app_lcore_main_loop	client/src/runtime.c	/^int app_lcore_main_loop(__attribute__((unused)) void *arg) {$/;"	f
+app_lcore_main_loop	old/lb_runtime.c	/^int app_lcore_main_loop(__attribute__((unused)) void *arg)$/;"	f
+app_lcore_main_loop	old/runtime.c	/^int app_lcore_main_loop(__attribute__((unused)) void *arg) {$/;"	f
+app_lcore_main_loop	server/src/runtime.c	/^int app_lcore_main_loop(__attribute__((unused)) void *arg) {$/;"	f
+app_lcore_main_loop	src/runtime.c	/^int app_lcore_main_loop(__attribute__((unused)) void *arg) {$/;"	f
+app_lcore_main_loop_io	client/src/runtime.c	/^static void app_lcore_main_loop_io(void) {$/;"	f	file:
+app_lcore_main_loop_io	old/lb_runtime.c	/^app_lcore_main_loop_io(void)$/;"	f	file:
+app_lcore_main_loop_io	old/runtime.c	/^static void app_lcore_main_loop_io(void) {$/;"	f	file:
+app_lcore_main_loop_io	server/src/runtime.c	/^static void app_lcore_main_loop_io(void) {$/;"	f	file:
+app_lcore_main_loop_io	src/runtime.c	/^static void app_lcore_main_loop_io(void) {$/;"	f	file:
+app_lcore_main_loop_worker	client/src/runtime.c	/^static void app_lcore_main_loop_worker(void) {$/;"	f	file:
+app_lcore_main_loop_worker	old/lb_runtime.c	/^app_lcore_main_loop_worker(void)$/;"	f	file:
+app_lcore_main_loop_worker	old/runtime.c	/^static void app_lcore_main_loop_worker(void) {$/;"	f	file:
+app_lcore_main_loop_worker	server/src/runtime.c	/^static void app_lcore_main_loop_worker(void) {$/;"	f	file:
+app_lcore_main_loop_worker	src/runtime.c	/^static void app_lcore_main_loop_worker(void) {$/;"	f	file:
+app_lcore_params	client/include/main.h	/^struct app_lcore_params {$/;"	s
+app_lcore_params	include/main.h	/^struct app_lcore_params$/;"	s
+app_lcore_params	old/lb_main.h	/^struct app_lcore_params$/;"	s
+app_lcore_params	old/main.h	/^struct app_lcore_params$/;"	s
+app_lcore_params	server/include/main.h	/^struct app_lcore_params {$/;"	s
+app_lcore_params_io	client/include/main.h	/^struct app_lcore_params_io {$/;"	s
+app_lcore_params_io	include/main.h	/^struct app_lcore_params_io$/;"	s
+app_lcore_params_io	old/lb_main.h	/^struct app_lcore_params_io$/;"	s
+app_lcore_params_io	old/main.h	/^struct app_lcore_params_io$/;"	s
+app_lcore_params_io	server/include/main.h	/^struct app_lcore_params_io {$/;"	s
+app_lcore_params_worker	client/include/main.h	/^struct app_lcore_params_worker {$/;"	s
+app_lcore_params_worker	include/main.h	/^struct app_lcore_params_worker$/;"	s
+app_lcore_params_worker	old/lb_main.h	/^struct app_lcore_params_worker$/;"	s
+app_lcore_params_worker	old/main.h	/^struct app_lcore_params_worker$/;"	s
+app_lcore_params_worker	server/include/main.h	/^struct app_lcore_params_worker {$/;"	s
+app_lcore_type	client/include/main.h	/^enum app_lcore_type {$/;"	g
+app_lcore_type	include/main.h	/^enum app_lcore_type$/;"	g
+app_lcore_type	old/lb_main.h	/^enum app_lcore_type$/;"	g
+app_lcore_type	old/main.h	/^enum app_lcore_type$/;"	g
+app_lcore_type	server/include/main.h	/^enum app_lcore_type {$/;"	g
+app_lcore_worker	client/src/runtime.c	/^static inline void app_lcore_worker(struct app_lcore_params_worker *lp,$/;"	f	file:
+app_lcore_worker	old/lb_runtime.c	/^app_lcore_worker($/;"	f	file:
+app_lcore_worker	old/runtime.c	/^static inline void app_lcore_worker(struct app_lcore_params_worker *lp,$/;"	f	file:
+app_lcore_worker	server/src/runtime.c	/^static inline void app_lcore_worker(struct app_lcore_params_worker *lp,$/;"	f	file:
+app_lcore_worker	src/runtime.c	/^static inline void app_lcore_worker(struct app_lcore_params_worker *lp,$/;"	f	file:
+app_lcore_worker_flush	client/src/runtime.c	/^static inline void app_lcore_worker_flush(struct app_lcore_params_worker *lp) {$/;"	f	file:
+app_lcore_worker_flush	old/lb_runtime.c	/^app_lcore_worker_flush(struct app_lcore_params_worker *lp)$/;"	f	file:
+app_lcore_worker_flush	old/runtime.c	/^static inline void app_lcore_worker_flush(struct app_lcore_params_worker *lp) {$/;"	f	file:
+app_lcore_worker_flush	server/src/runtime.c	/^static inline void app_lcore_worker_flush(struct app_lcore_params_worker *lp) {$/;"	f	file:
+app_lcore_worker_flush	src/runtime.c	/^static inline void app_lcore_worker_flush(struct app_lcore_params_worker *lp) {$/;"	f	file:
+app_lpm_rule	client/include/main.h	/^struct app_lpm_rule {$/;"	s
+app_lpm_rule	include/main.h	/^struct app_lpm_rule$/;"	s
+app_lpm_rule	old/lb_main.h	/^struct app_lpm_rule$/;"	s
+app_lpm_rule	old/main.h	/^struct app_lpm_rule$/;"	s
+app_lpm_rule	server/include/main.h	/^struct app_lpm_rule {$/;"	s
+app_mbuf_array	client/include/main.h	/^struct app_mbuf_array {$/;"	s
+app_mbuf_array	include/main.h	/^struct app_mbuf_array {$/;"	s
+app_mbuf_array	old/lb_main.h	/^                           struct app_mbuf_array$/;"	s
+app_mbuf_array	old/main.h	/^struct app_mbuf_array {$/;"	s
+app_mbuf_array	server/include/main.h	/^struct app_mbuf_array {$/;"	s
+app_message_type	include/datastore.h	/^typedef enum app_message_type app_message_type;$/;"	t	typeref:enum:app_message_type
+app_message_type	old/datastore.h	/^enum app_message_type { SINGLE = 0, MULTI = 1 };$/;"	g
+app_message_type	old/datastore.h	/^typedef enum app_message_type app_message_type;$/;"	t	typeref:enum:app_message_type
+app_message_type	server/include/datastore.h	/^typedef enum app_message_type app_message_type;$/;"	t	typeref:enum:app_message_type
+app_message_type	src_alternate/datastore.h	/^enum app_message_type$/;"	g
+app_message_type	src_alternate/datastore.h	/^typedef enum app_message_type app_message_type;$/;"	t	typeref:enum:app_message_type
+app_params	client/include/main.h	/^struct app_params {$/;"	s
+app_params	include/main.h	/^struct app_params$/;"	s
+app_params	old/lb_main.h	/^struct app_params$/;"	s
+app_params	old/main.h	/^struct app_params$/;"	s
+app_params	server/include/main.h	/^struct app_params {$/;"	s
+app_parse_args	client/src/config.c	/^int app_parse_args(int argc, char **argv)$/;"	f
+app_parse_args	old/config.c	/^int app_parse_args(int argc, char **argv)$/;"	f
+app_parse_args	old/lb_config.c	/^int app_parse_args(int argc, char **argv)$/;"	f
+app_parse_args	server/src/config.c	/^int app_parse_args(int argc, char **argv)$/;"	f
+app_parse_args	src/config.c	/^int app_parse_args(int argc, char **argv)$/;"	f
+app_print_params	client/src/config.c	/^void app_print_params(void)$/;"	f
+app_print_params	old/config.c	/^void app_print_params(void)$/;"	f
+app_print_params	old/lb_config.c	/^void app_print_params(void)$/;"	f
+app_print_params	server/src/config.c	/^void app_print_params(void)$/;"	f
+app_print_params	src/config.c	/^void app_print_params(void)$/;"	f
+app_print_usage	client/src/config.c	/^void app_print_usage(void)$/;"	f
+app_print_usage	old/config.c	/^void app_print_usage(void)$/;"	f
+app_print_usage	old/lb_config.c	/^void app_print_usage(void)$/;"	f
+app_print_usage	server/src/config.c	/^void app_print_usage(void)$/;"	f
+app_print_usage	src/config.c	/^void app_print_usage(void)$/;"	f
+app_set_worker_callback	client/src/init.c	/^void app_set_worker_callback(worker_cb worker_callback) {$/;"	f
+app_set_worker_callback	server/src/init.c	/^void app_set_worker_callback(worker_cb worker_callback) {$/;"	f
+app_set_worker_callback	src/init.c	/^void app_set_worker_callback(worker_cb worker_callback) {$/;"	f
+array	client/include/main.h	/^  struct rte_mbuf *array[APP_MBUF_ARRAY_SIZE];$/;"	m	struct:app_mbuf_array	typeref:struct:app_mbuf_array::rte_mbuf
+array	include/main.h	/^	struct rte_mbuf *array[APP_MBUF_ARRAY_SIZE];$/;"	m	struct:app_mbuf_array	typeref:struct:app_mbuf_array::rte_mbuf
+array	old/lb_main.h	/^    struct rte_mbuf *array[APP_MBUF_ARRAY_SIZE];$/;"	m	struct:app_mbuf_array	typeref:struct:app_mbuf_array::rte_mbuf
+array	old/main.h	/^	struct rte_mbuf *array[APP_MBUF_ARRAY_SIZE];$/;"	m	struct:app_mbuf_array	typeref:struct:app_mbuf_array::rte_mbuf
+array	server/include/main.h	/^  struct rte_mbuf *array[APP_MBUF_ARRAY_SIZE];$/;"	m	struct:app_mbuf_array	typeref:struct:app_mbuf_array::rte_mbuf
+be	old/old_datastore.h	/^    rocksdb_backup_engine_t *be; \/\/ REVIEW: what is this backup engine?$/;"	m	struct:rocksdb_lcore_params
+begin_transaction	client/src/datastore.c	/^int begin_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+begin_transaction	old/datastore.c	/^int begin_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+begin_transaction	server/src/datastore.c	/^int begin_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+begin_transaction	src/datastore.c	/^int begin_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+begin_transaction	src_alternate/datastore.c	/^int begin_transaction(struct datastore_worker_params *worker, rocksdb_writeoptions_t *write_options, rocksdb_transaction_options_t *tx_options)$/;"	f
+begin_tx	old/old_datastore.c	/^int begin_tx(void) {$/;"	f
+buffer	old/multi_process_server.c	/^	struct rte_mbuf *buffer[PACKET_READ_SIZE];$/;"	m	struct:client_rx_buf	typeref:struct:client_rx_buf::rte_mbuf	file:
+bufs	old/example_client.c	/^	struct rte_mbuf *bufs[MBQ_CAPACITY];$/;"	m	struct:mbuf_queue	typeref:struct:mbuf_queue::rte_mbuf	file:
+burst_size_io_rx_read	client/include/main.h	/^  uint32_t burst_size_io_rx_read;$/;"	m	struct:app_params
+burst_size_io_rx_read	include/main.h	/^    uint32_t burst_size_io_rx_read;$/;"	m	struct:app_params
+burst_size_io_rx_read	old/lb_main.h	/^    uint32_t burst_size_io_rx_read;$/;"	m	struct:app_params
+burst_size_io_rx_read	old/main.h	/^    uint32_t burst_size_io_rx_read;$/;"	m	struct:app_params
+burst_size_io_rx_read	server/include/main.h	/^  uint32_t burst_size_io_rx_read;$/;"	m	struct:app_params
+burst_size_io_rx_write	client/include/main.h	/^  uint32_t burst_size_io_rx_write;$/;"	m	struct:app_params
+burst_size_io_rx_write	include/main.h	/^    uint32_t burst_size_io_rx_write;$/;"	m	struct:app_params
+burst_size_io_rx_write	old/lb_main.h	/^    uint32_t burst_size_io_rx_write;$/;"	m	struct:app_params
+burst_size_io_rx_write	old/main.h	/^    uint32_t burst_size_io_rx_write;$/;"	m	struct:app_params
+burst_size_io_rx_write	server/include/main.h	/^  uint32_t burst_size_io_rx_write;$/;"	m	struct:app_params
+burst_size_io_tx_read	client/include/main.h	/^  uint32_t burst_size_io_tx_read;$/;"	m	struct:app_params
+burst_size_io_tx_read	include/main.h	/^    uint32_t burst_size_io_tx_read;$/;"	m	struct:app_params
+burst_size_io_tx_read	old/lb_main.h	/^    uint32_t burst_size_io_tx_read;$/;"	m	struct:app_params
+burst_size_io_tx_read	old/main.h	/^    uint32_t burst_size_io_tx_read;$/;"	m	struct:app_params
+burst_size_io_tx_read	server/include/main.h	/^  uint32_t burst_size_io_tx_read;$/;"	m	struct:app_params
+burst_size_io_tx_write	client/include/main.h	/^  uint32_t burst_size_io_tx_write;$/;"	m	struct:app_params
+burst_size_io_tx_write	include/main.h	/^    uint32_t burst_size_io_tx_write;$/;"	m	struct:app_params
+burst_size_io_tx_write	old/lb_main.h	/^    uint32_t burst_size_io_tx_write;$/;"	m	struct:app_params
+burst_size_io_tx_write	old/main.h	/^    uint32_t burst_size_io_tx_write;$/;"	m	struct:app_params
+burst_size_io_tx_write	server/include/main.h	/^  uint32_t burst_size_io_tx_write;$/;"	m	struct:app_params
+burst_size_worker_read	client/include/main.h	/^  uint32_t burst_size_worker_read;$/;"	m	struct:app_params
+burst_size_worker_read	include/main.h	/^    uint32_t burst_size_worker_read;$/;"	m	struct:app_params
+burst_size_worker_read	old/lb_main.h	/^    uint32_t burst_size_worker_read;$/;"	m	struct:app_params
+burst_size_worker_read	old/main.h	/^    uint32_t burst_size_worker_read;$/;"	m	struct:app_params
+burst_size_worker_read	server/include/main.h	/^  uint32_t burst_size_worker_read;$/;"	m	struct:app_params
+burst_size_worker_write	client/include/main.h	/^  uint32_t burst_size_worker_write;$/;"	m	struct:app_params
+burst_size_worker_write	include/main.h	/^    uint32_t burst_size_worker_write;$/;"	m	struct:app_params
+burst_size_worker_write	old/lb_main.h	/^    uint32_t burst_size_worker_write;$/;"	m	struct:app_params
+burst_size_worker_write	old/main.h	/^    uint32_t burst_size_worker_write;$/;"	m	struct:app_params
+burst_size_worker_write	server/include/main.h	/^  uint32_t burst_size_worker_write;$/;"	m	struct:app_params
+bytes_to_gbits	client/src/net_util.c	/^double bytes_to_gbits(uint64_t bytes) {$/;"	f
+cStandard	.vscode/c_cpp_properties.json	/^            "cStandard": "c11",$/;"	f
+calc_latency	old/old_test.c	/^calc_latency(uint16_t port __rte_unused, uint16_t qidx __rte_unused,$/;"	f	file:
+calc_latency	old/test.c	/^calc_latency(uint16_t port __rte_unused, uint16_t qidx __rte_unused,$/;"	f	file:
+check_all_ports_link_status	client/src/init.c	/^check_all_ports_link_status(uint16_t port_num, uint32_t port_mask)$/;"	f	file:
+check_all_ports_link_status	old/init.c	/^check_all_ports_link_status(uint16_t port_num, uint32_t port_mask)$/;"	f	file:
+check_all_ports_link_status	old/lb_init.c	/^check_all_ports_link_status(uint16_t port_num, uint32_t port_mask)$/;"	f	file:
+check_all_ports_link_status	server/src/init.c	/^check_all_ports_link_status(uint16_t port_num, uint32_t port_mask)$/;"	f	file:
+check_all_ports_link_status	src/init.c	/^check_all_ports_link_status(uint16_t port_num, uint32_t port_mask)$/;"	f	file:
+check_timeout	old/client.c	/^void check_timeout(clock_t start_time)$/;"	f
+checkpoint	old/hashmap.h	/^  int checkpoint;$/;"	m	struct:hashmap
+cl_rx_buf	old/multi_process_server.c	/^static struct client_rx_buf *cl_rx_buf;$/;"	v	typeref:struct:client_rx_buf	file:
+clear_stats	old/multi_process_server.c	/^clear_stats(void)$/;"	f	file:
+client	client/include/main.h	/^  struct sockaddr_in client; \/\/ mine$/;"	m	struct:app_params	typeref:struct:app_params::sockaddr_in
+client	server/include/main.h	/^  struct sockaddr_in client;$/;"	m	struct:app_params	typeref:struct:app_params::sockaddr_in
+client_context	old/old_client.c	/^struct client_context$/;"	s	file:
+client_id	client/cmake/client.c	/^static uint8_t client_id = 0;$/;"	v	file:
+client_id	old/example_client.c	/^static uint8_t client_id = 0;$/;"	v	file:
+client_id	old/multi_process_client.c	/^static uint8_t client_id = 0;$/;"	v	file:
+client_rx_buf	old/multi_process_server.c	/^struct client_rx_buf {$/;"	s	file:
+close_database	client/src/datastore.c	/^int close_database(struct datastore_env_params *rocks, int db_id) {$/;"	f
+close_database	old/datastore.c	/^int close_database(struct datastore_env_params *rocks, int db_id) {$/;"	f
+close_database	server/src/datastore.c	/^int close_database(struct datastore_env_params *rocks, int db_id) {$/;"	f
+close_database	src/datastore.c	/^int close_database(struct datastore_env_params *rocks, int db_id) {$/;"	f
+close_database	src_alternate/datastore.c	/^int close_database(struct datastore_worker_params *worker)$/;"	f
+close_txdb	old/old_datastore.c	/^int close_txdb(void) {$/;"	f
+cmake.configureOnOpen	.vscode/settings.json	/^    "cmake.configureOnOpen": true$/;"	f
+com_close	old/rocksdb_main.c	/^int com_close(char *arg)$/;"	f
+com_db_destroy	old/rocksdb_main.c	/^int com_db_destroy(char *arg)$/;"	f
+com_delete	old/rocksdb_main.c	/^int com_delete(char *arg)$/;"	f
+com_help	old/rocksdb_main.c	/^int com_help (char *arg)$/;"	f
+com_list	old/rocksdb_main.c	/^int com_list(char *arg)$/;"	f
+com_open	old/rocksdb_main.c	/^int com_open(char *arg)$/;"	f
+com_quit	old/rocksdb_main.c	/^int com_quit (char *arg)$/;"	f
+com_read	old/rocksdb_main.c	/^int com_read(char *arg)$/;"	f
+com_tx_commit	old/rocksdb_main.c	/^int com_tx_commit(char *arg)$/;"	f
+com_tx_create	old/rocksdb_main.c	/^int com_tx_create(char *arg)$/;"	f
+com_tx_destroy	old/rocksdb_main.c	/^int com_tx_destroy(char *arg)$/;"	f
+com_tx_list	old/rocksdb_main.c	/^int com_tx_list(char *arg)$/;"	f
+com_tx_rollback	old/rocksdb_main.c	/^int com_tx_rollback(char *arg)$/;"	f
+com_tx_set_savepoint	old/rocksdb_main.c	/^int com_tx_set_savepoint(char *arg)$/;"	f
+com_write	old/rocksdb_main.c	/^int com_write(char *arg)$/;"	f
+command_generator	old/rocksdb_main.c	/^command_generator (const char *text, int state)$/;"	f
+commands	old/rocksdb_main.c	/^COMMAND commands[] = {$/;"	v
+commit_transaction	client/src/datastore.c	/^int commit_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+commit_transaction	old/datastore.c	/^int commit_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+commit_transaction	server/src/datastore.c	/^int commit_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+commit_transaction	src/datastore.c	/^int commit_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+commit_transaction	src_alternate/datastore.c	/^int commit_transaction(struct datastore_worker_params *worker)$/;"	f
+commit_tx	old/old_datastore.c	/^int commit_tx(void) {$/;"	f
+compilerPath	.vscode/c_cpp_properties.json	/^            "compilerPath": "\/usr\/local\/bin\/gcc-8",$/;"	f
+configurations	.vscode/c_cpp_properties.json	/^    "configurations": [$/;"	f
+configure_output_ports	client/cmake/client.c	/^configure_output_ports(const struct port_info *ports)$/;"	f	file:
+configure_output_ports	old/example_client.c	/^static void configure_output_ports(const struct port_info *ports)$/;"	f	file:
+configure_output_ports	old/multi_process_client.c	/^configure_output_ports(const struct port_info *ports)$/;"	f	file:
+configure_tx_buffer	client/cmake/client.c	/^configure_tx_buffer(uint16_t port_id, uint16_t size)$/;"	f	file:
+configure_tx_buffer	old/multi_process_client.c	/^configure_tx_buffer(uint16_t port_id, uint16_t size)$/;"	f	file:
+count	old/multi_process_server.c	/^	uint16_t count;$/;"	m	struct:client_rx_buf	file:
+cp	old/old_datastore.h	/^    rocksdb_checkpoint_t *cp;$/;"	m	struct:rocksdb_lcore_params
+cppStandard	.vscode/c_cpp_properties.json	/^            "cppStandard": "c++17",$/;"	f
+create_map	old/hashmap.c	/^hashmap * create_map(){$/;"	f
+create_node	old/hashmap.c	/^node * create_node(int key_size, char * k){$/;"	f
+datastore_env_params	client/include/datastore.h	/^struct datastore_env_params {$/;"	s
+datastore_env_params	include/datastore.h	/^struct datastore_env_params {$/;"	s
+datastore_env_params	old/datastore.h	/^struct datastore_env_params {$/;"	s
+datastore_env_params	server/include/datastore.h	/^struct datastore_env_params {$/;"	s
+datastore_env_params	src_alternate/datastore.h	/^struct datastore_env_params$/;"	s
+datastore_worker_params	client/include/datastore.h	/^struct datastore_worker_params \/\/ now in struct app_lcore_params_worker$/;"	s
+datastore_worker_params	include/datastore.h	/^struct datastore_worker_params \/\/ now in struct app_lcore_params_worker$/;"	s
+datastore_worker_params	old/datastore.h	/^struct datastore_worker_params \/\/ now in struct app_lcore_params_worker$/;"	s
+datastore_worker_params	server/include/datastore.h	/^struct datastore_worker_params \/\/ now in struct app_lcore_params_worker$/;"	s
+datastore_worker_params	src_alternate/datastore.h	/^struct datastore_worker_params \/\/ now in struct app_lcore_params_worker$/;"	s
+db_path	client/include/datastore.h	/^  char *db_path[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+db_path	include/datastore.h	/^  char *db_path[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+db_path	old/datastore.h	/^  char *db_path[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+db_path	old/old_datastore.h	/^    char *db_path;$/;"	m	struct:rocksdb_lcore_params
+db_path	server/include/datastore.h	/^  char *db_path[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+db_path	src_alternate/datastore.h	/^    char *db_path;$/;"	m	struct:datastore_worker_params
+deconstruct_database_env	client/src/datastore.c	/^void deconstruct_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+deconstruct_database_env	old/datastore.c	/^void deconstruct_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+deconstruct_database_env	server/src/datastore.c	/^void deconstruct_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+deconstruct_database_env	src/datastore.c	/^void deconstruct_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+deconstruct_database_env	src_alternate/datastore.c	/^void deconstruct_database_env(struct datastore_env_params * rocksdb_env)$/;"	f
+defines	.vscode/c_cpp_properties.json	/^            "defines": [],$/;"	f
+delete_keyval_pair	client/src/datastore.c	/^int delete_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+delete_keyval_pair	old/datastore.c	/^int delete_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+delete_keyval_pair	server/src/datastore.c	/^int delete_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+delete_keyval_pair	src/datastore.c	/^int delete_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+delete_keyval_pair	src_alternate/datastore.c	/^int delete_keyval_pair(struct datastore_worker_params * worker, char *key, size_t keylen)$/;"	f
+delete_transaction	client/src/datastore.c	/^int delete_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+delete_transaction	old/datastore.c	/^int delete_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+delete_transaction	server/src/datastore.c	/^int delete_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+delete_transaction	src/datastore.c	/^int delete_transaction(struct datastore_env_params *rocks, int db_id) {$/;"	f
+delete_transaction	src_alternate/datastore.c	/^int delete_transaction(struct datastore_worker_params *worker)$/;"	f
+delete_tx	old/old_datastore.c	/^int delete_tx(void) {$/;"	f
+delivered_count	old/old_datastore.h	/^    uint32_t delivered_count;$/;"	m	struct:rocksdb_lcore_params
+depth	client/include/main.h	/^  uint8_t depth;$/;"	m	struct:app_lpm_rule
+depth	include/main.h	/^    uint8_t depth;$/;"	m	struct:app_lpm_rule
+depth	old/lb_main.h	/^    uint8_t depth;$/;"	m	struct:app_lpm_rule
+depth	old/main.h	/^    uint8_t depth;$/;"	m	struct:app_lpm_rule
+depth	server/include/main.h	/^  uint8_t depth;$/;"	m	struct:app_lpm_rule
+destroy_database	client/src/datastore.c	/^int destroy_database(rocksdb_options_t *options, char *db_path) {$/;"	f
+destroy_database	old/datastore.c	/^int destroy_database(rocksdb_options_t *options, char *db_path) {$/;"	f
+destroy_database	server/src/datastore.c	/^int destroy_database(rocksdb_options_t *options, char *db_path) {$/;"	f
+destroy_database	src/datastore.c	/^int destroy_database(rocksdb_options_t *options, char *db_path) {$/;"	f
+destroy_database	src_alternate/datastore.c	/^int destroy_database(rocksdb_options_t *options, char *db_path)$/;"	f
+destroy_map	old/hashmap.c	/^int destroy_map(hashmap * h){$/;"	f
+destroy_txdb	old/old_datastore.c	/^int destroy_txdb(char *db_path) {$/;"	f
+do_packet_forwarding	old/multi_process_server.c	/^do_packet_forwarding(void)$/;"	f	file:
+do_stats_display	old/multi_process_server.c	/^do_stats_display(void)$/;"	f	file:
+doc	old/rocksdb_main.c	/^    char *doc;			\/* Documentation for this function.  *\/$/;"	m	struct:__anon11	file:
+done	old/old_server.c	/^ int done;$/;"	v
+done	old/rocksdb_main.c	/^int done;$/;"	v
+e_APP_LCORE_DISABLED	client/include/main.h	/^  e_APP_LCORE_DISABLED = 0,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_DISABLED	include/main.h	/^    e_APP_LCORE_DISABLED = 0,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_DISABLED	old/lb_main.h	/^    e_APP_LCORE_DISABLED = 0,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_DISABLED	old/main.h	/^    e_APP_LCORE_DISABLED = 0,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_DISABLED	server/include/main.h	/^  e_APP_LCORE_DISABLED = 0,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_IO	client/include/main.h	/^  e_APP_LCORE_IO,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_IO	include/main.h	/^    e_APP_LCORE_IO,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_IO	old/lb_main.h	/^    e_APP_LCORE_IO,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_IO	old/main.h	/^    e_APP_LCORE_IO,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_IO	server/include/main.h	/^  e_APP_LCORE_IO,$/;"	e	enum:app_lcore_type
+e_APP_LCORE_WORKER	client/include/main.h	/^  e_APP_LCORE_WORKER$/;"	e	enum:app_lcore_type
+e_APP_LCORE_WORKER	include/main.h	/^    e_APP_LCORE_WORKER$/;"	e	enum:app_lcore_type
+e_APP_LCORE_WORKER	old/lb_main.h	/^    e_APP_LCORE_WORKER$/;"	e	enum:app_lcore_type
+e_APP_LCORE_WORKER	old/main.h	/^    e_APP_LCORE_WORKER$/;"	e	enum:app_lcore_type
+e_APP_LCORE_WORKER	server/include/main.h	/^  e_APP_LCORE_WORKER$/;"	e	enum:app_lcore_type
+enqueue_packet	old/example_client.c	/^enqueue_packet(struct rte_mbuf *buf, uint8_t port)$/;"	f	file:
+enqueue_rx_packet	old/multi_process_server.c	/^enqueue_rx_packet(uint8_t client, struct rte_mbuf *buf)$/;"	f	file:
+execute_line	old/rocksdb_main.c	/^int execute_line(char *line) {$/;"	f
+features	CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+features	build/client/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	build/client/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+features	build/server/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	build/server/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+find_command	old/rocksdb_main.c	/^COMMAND* find_command (char *name)$/;"	f
+flush_rx_queue	old/multi_process_server.c	/^flush_rx_queue(uint16_t client)$/;"	f	file:
+flush_tx_error_callback	client/cmake/client.c	/^flush_tx_error_callback(struct rte_mbuf **unsent, uint16_t count,$/;"	f	file:
+flush_tx_error_callback	old/multi_process_client.c	/^flush_tx_error_callback(struct rte_mbuf **unsent, uint16_t count,$/;"	f	file:
+force_quit	client/include/main.h	/^  volatile sig_atomic_t force_quit;$/;"	m	struct:app_params
+force_quit	include/main.h	/^    volatile sig_atomic_t force_quit;$/;"	m	struct:app_params
+force_quit	old/main.h	/^    volatile sig_atomic_t force_quit;$/;"	m	struct:app_params
+force_quit	server/include/main.h	/^  volatile sig_atomic_t force_quit;$/;"	m	struct:app_params
+func	old/rocksdb_main.c	/^    rl_icpfunc_t *func;		\/* Function to call to do the job. *\/$/;"	m	struct:__anon11	file:
+get_printable_mac_addr	old/multi_process_server.c	/^get_printable_mac_addr(uint16_t port)$/;"	f	file:
+get_rx_queue_name	client/include/common.h	/^get_rx_queue_name(unsigned id)$/;"	f
+handle_db_message	junk/server.c	/^int handle_db_message(struct rte_mbuf *pkt_in, void *arg) {$/;"	f
+handle_db_message	old/main.c	/^int handle_db_message(struct app_lcore_params_worker *lp,$/;"	f
+handle_db_message	server/src/server.c	/^int handle_db_message(struct rte_mbuf *pkt_in, void *arg) {$/;"	f
+handle_db_message	src/server.c	/^int handle_db_message(struct rte_mbuf *pkt_in, void *arg) {$/;"	f
+handle_db_message	src_alternate/main.c	/^void handle_db_message(struct app_lcore_params_worker *lp, struct rte_mbuf *pkt_in){$/;"	f
+handle_delete	client/src/datastore.c	/^int handle_delete(struct datastore_env_params *rocks, char *key,$/;"	f
+handle_delete	old/datastore.c	/^int handle_delete(struct datastore_env_params *rocks, char *key,$/;"	f
+handle_delete	server/src/datastore.c	/^int handle_delete(struct datastore_env_params *rocks, char *key,$/;"	f
+handle_delete	src/datastore.c	/^int handle_delete(struct datastore_env_params *rocks, char *key,$/;"	f
+handle_delete	src_alternate/datastore.c	/^int handle_delete(struct datastore_worker_params * worker, char *key){$/;"	f
+handle_map_insert	old/hashmap.c	/^int handle_map_insert(hashmap * h, char * key){$/;"	f
+handle_multidb_delete	client/src/datastore.c	/^int handle_multidb_delete(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_delete	old/datastore.c	/^int handle_multidb_delete(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_delete	server/src/datastore.c	/^int handle_multidb_delete(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_delete	src/datastore.c	/^int handle_multidb_delete(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_read	client/src/datastore.c	/^int handle_multidb_read(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_read	old/datastore.c	/^int handle_multidb_read(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_read	server/src/datastore.c	/^int handle_multidb_read(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_read	src/datastore.c	/^int handle_multidb_read(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_rollback	client/src/datastore.c	/^int handle_multidb_rollback(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_rollback	old/datastore.c	/^int handle_multidb_rollback(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_rollback	server/src/datastore.c	/^int handle_multidb_rollback(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_rollback	src/datastore.c	/^int handle_multidb_rollback(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_setsavepoint	client/src/datastore.c	/^int handle_multidb_setsavepoint(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_setsavepoint	old/datastore.c	/^int handle_multidb_setsavepoint(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_setsavepoint	server/src/datastore.c	/^int handle_multidb_setsavepoint(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_setsavepoint	src/datastore.c	/^int handle_multidb_setsavepoint(struct datastore_env_params *rocks) {$/;"	f
+handle_multidb_write	client/src/datastore.c	/^int handle_multidb_write(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_write	old/datastore.c	/^int handle_multidb_write(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_write	server/src/datastore.c	/^int handle_multidb_write(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_multidb_write	src/datastore.c	/^int handle_multidb_write(struct datastore_env_params *rocks, char *key) {$/;"	f
+handle_packet	client/cmake/client.c	/^handle_packet(struct rte_mbuf *buf)$/;"	f	file:
+handle_packet	old/example_client.c	/^handle_packet(struct rte_mbuf *buf)$/;"	f	file:
+handle_packet	old/multi_process_client.c	/^handle_packet(struct rte_mbuf *buf)$/;"	f	file:
+handle_propose	client/src/client.c	/^int handle_propose(struct rte_mbuf *pkt_in, void *arg) {$/;"	f
+handle_propose	junk/client.c	/^int handle_propose(struct rte_mbuf *pkt_in, void *arg) {$/;"	f
+handle_propose	src/client.c	/^int handle_propose(struct rte_mbuf *pkt_in, void *arg) {$/;"	f
+handle_read	client/src/datastore.c	/^int handle_read(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_read	old/datastore.c	/^int handle_read(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_read	server/src/datastore.c	/^int handle_read(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_read	src/datastore.c	/^int handle_read(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_read	src_alternate/datastore.c	/^int handle_read(struct datastore_worker_params * worker, rocksdb_readoptions_t *read_options, char *key){$/;"	f
+handle_rollback	old/old_datastore.c	/^int handle_rollback() {$/;"	f
+handle_save	old/old_datastore.c	/^int handle_save() {$/;"	f
+handle_tx_delete	old/old_datastore.c	/^int handle_tx_delete(char *key, size_t keylen) {$/;"	f
+handle_tx_list	old/old_datastore.c	/^int handle_tx_list(void) {$/;"	f
+handle_tx_read	old/old_datastore.c	/^int handle_tx_read(char *key, size_t keylen) {$/;"	f
+handle_tx_write	old/old_datastore.c	/^int handle_tx_write(char *key, size_t keylen, char *val, size_t vallen) {$/;"	f
+handle_txdb_list	old/old_datastore.c	/^int handle_txdb_list(void) {$/;"	f
+handle_write	client/src/datastore.c	/^int handle_write(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_write	old/datastore.c	/^int handle_write(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_write	server/src/datastore.c	/^int handle_write(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_write	src/datastore.c	/^int handle_write(struct datastore_env_params *rocks, char *key, int db_id) {$/;"	f
+handle_write	src_alternate/datastore.c	/^int handle_write(struct datastore_worker_params * worker, char *key){$/;"	f
+hash	old/hashmap.c	/^int hash(char * key){$/;"	f
+hash_index	old/hashmap.h	/^  int hash_index;$/;"	m	struct:node
+hashmap	old/hashmap.h	/^typedef struct hashmap{$/;"	s
+hashmap	old/hashmap.h	/^} hashmap;$/;"	t	typeref:struct:hashmap
+hmap	old/rocksdb_main.c	/^hashmap * hmap;$/;"	v
+hostname	old/old_datastore.h	/^    char hostname[32];$/;"	m	struct:rocksdb_txdb_params
+id	client/include/common.h	/^	uint16_t id[RTE_MAX_ETHPORTS];$/;"	m	struct:port_info
+if_out	client/include/main.h	/^  uint8_t if_out;$/;"	m	struct:app_lpm_rule
+if_out	include/main.h	/^    uint8_t if_out;$/;"	m	struct:app_lpm_rule
+if_out	old/lb_main.h	/^    uint8_t if_out;$/;"	m	struct:app_lpm_rule
+if_out	old/main.h	/^    uint8_t if_out;$/;"	m	struct:app_lpm_rule
+if_out	server/include/main.h	/^  uint8_t if_out;$/;"	m	struct:app_lpm_rule
+includePath	.vscode/c_cpp_properties.json	/^            "includePath": [$/;"	f
+info_arch	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+init_database_env	client/src/datastore.c	/^void init_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+init_database_env	old/datastore.c	/^void init_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+init_database_env	server/src/datastore.c	/^void init_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+init_database_env	src/datastore.c	/^void init_database_env(struct datastore_env_params *rocksdb_env) {$/;"	f
+init_database_env	src_alternate/datastore.c	/^void init_database_env(struct datastore_env_params * rocksdb_env)$/;"	f
+init_rocksdb_txdb	old/old_datastore.c	/^void init_rocksdb_txdb(void) {$/;"	f
+init_sockaddr	old/client.c	/^void init_sockaddr(struct hostent *server_name, int port,$/;"	f
+initialize_readline	old/rocksdb_main.c	/^void initialize_readline ()$/;"	f
+int_handler	client/src/client.c	/^static void int_handler(int sig_num) {$/;"	f	file:
+int_handler	junk/client.c	/^static void int_handler(int sig_num) {$/;"	f	file:
+int_handler	junk/server.c	/^static void int_handler(int sig_num) {$/;"	f	file:
+int_handler	old/main.c	/^static void int_handler(int sig_num) {$/;"	f	file:
+int_handler	server/src/server.c	/^static void int_handler(int sig_num) {$/;"	f	file:
+int_handler	src/client.c	/^static void int_handler(int sig_num) {$/;"	f	file:
+int_handler	src/server.c	/^static void int_handler(int sig_num) {$/;"	f	file:
+int_handler	src_alternate/main.c	/^int_handler(int sig_num)$/;"	f	file:
+intelliSenseMode	.vscode/c_cpp_properties.json	/^            "intelliSenseMode": "clang-x64"$/;"	f
+invalid_argument	old/rocksdb_main.c	/^invalid_argument(char *caller, char *arg)$/;"	f
+io	client/include/main.h	/^    struct app_lcore_params_io io;$/;"	m	union:app_lcore_params::__anon15	typeref:struct:app_lcore_params::__anon15::app_lcore_params_io
+io	include/main.h	/^        struct app_lcore_params_io io;$/;"	m	union:app_lcore_params::__anon19	typeref:struct:app_lcore_params::__anon19::app_lcore_params_io
+io	old/lb_main.h	/^        struct app_lcore_params_io io;$/;"	m	union:app_lcore_params::__anon6	typeref:struct:app_lcore_params::__anon6::app_lcore_params_io
+io	old/main.h	/^        struct app_lcore_params_io io;$/;"	m	union:app_lcore_params::__anon10	typeref:struct:app_lcore_params::__anon10::app_lcore_params_io
+io	server/include/main.h	/^    struct app_lcore_params_io io;$/;"	m	union:app_lcore_params::__anon23	typeref:struct:app_lcore_params::__anon23::app_lcore_params_io
+ip	client/include/main.h	/^  uint32_t ip;$/;"	m	struct:app_lpm_rule
+ip	include/main.h	/^    uint32_t ip;$/;"	m	struct:app_lpm_rule
+ip	old/lb_main.h	/^    uint32_t ip;$/;"	m	struct:app_lpm_rule
+ip	old/main.h	/^    uint32_t ip;$/;"	m	struct:app_lpm_rule
+ip	server/include/main.h	/^  uint32_t ip;$/;"	m	struct:app_lpm_rule
+key	old/hashmap.h	/^  char * key;$/;"	m	struct:node
+latency_numbers	old/old_test.c	/^} latency_numbers;$/;"	v	typeref:struct:__anon1	file:
+latency_numbers	old/test.c	/^} latency_numbers;$/;"	v	typeref:struct:__anon2	file:
+lcore_hello	old/old_server.c	/^lcore_hello(__attribute__((unused)) void *arg)$/;"	f	file:
+lcore_hello	old/rocksdb_main.c	/^static int lcore_hello(__attribute__((unused)) void *arg){$/;"	f	file:
+lcore_hello	old/server.c	/^static int lcore_hello(__attribute__((unused)) void *arg) {$/;"	f	file:
+lcore_main	old/basic_fwd.c	/^lcore_main(void)$/;"	f	file:
+lcore_main	old/old_test.c	/^lcore_main(void)$/;"	f	file:
+lcore_main	old/test.c	/^lcore_main(void)$/;"	f	file:
+lcore_params	client/include/main.h	/^  struct app_lcore_params lcore_params[APP_MAX_LCORES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lcore_params
+lcore_params	include/main.h	/^    struct app_lcore_params lcore_params[APP_MAX_LCORES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lcore_params
+lcore_params	old/lb_main.h	/^    struct app_lcore_params lcore_params[APP_MAX_LCORES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lcore_params
+lcore_params	old/main.h	/^    struct app_lcore_params lcore_params[APP_MAX_LCORES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lcore_params
+lcore_params	server/include/main.h	/^  struct app_lcore_params lcore_params[APP_MAX_LCORES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lcore_params
+leader	client/include/datastore.h	/^  uint16_t leader; \/\/ leader shard$/;"	m	struct:app_hdr
+leader	include/datastore.h	/^  uint16_t leader; \/\/ leader shard$/;"	m	struct:app_hdr
+leader	old/datastore.h	/^  uint16_t leader; \/\/ leader shard$/;"	m	struct:app_hdr
+leader	server/include/datastore.h	/^  uint16_t leader; \/\/ leader shard$/;"	m	struct:app_hdr
+lpm_rules	client/include/main.h	/^  struct app_lpm_rule lpm_rules[APP_MAX_LPM_RULES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lpm_rule
+lpm_rules	include/main.h	/^    struct app_lpm_rule lpm_rules[APP_MAX_LPM_RULES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lpm_rule
+lpm_rules	old/lb_main.h	/^    struct app_lpm_rule lpm_rules[APP_MAX_LPM_RULES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lpm_rule
+lpm_rules	old/main.h	/^    struct app_lpm_rule lpm_rules[APP_MAX_LPM_RULES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lpm_rule
+lpm_rules	server/include/main.h	/^  struct app_lpm_rule lpm_rules[APP_MAX_LPM_RULES];$/;"	m	struct:app_params	typeref:struct:app_params::app_lpm_rule
+lpm_table	client/include/main.h	/^  struct rte_lpm *lpm_table;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_lpm
+lpm_table	include/main.h	/^    struct rte_lpm *lpm_table;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_lpm
+lpm_table	old/lb_main.h	/^    struct rte_lpm *lpm_table;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_lpm
+lpm_table	old/main.h	/^    struct rte_lpm *lpm_table;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_lpm
+lpm_table	server/include/main.h	/^  struct rte_lpm *lpm_table;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_lpm
+lpm_tables	client/include/main.h	/^  struct rte_lpm *lpm_tables[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_lpm
+lpm_tables	include/main.h	/^    struct rte_lpm *lpm_tables[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_lpm
+lpm_tables	old/lb_main.h	/^    struct rte_lpm *lpm_tables[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_lpm
+lpm_tables	old/main.h	/^    struct rte_lpm *lpm_tables[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_lpm
+lpm_tables	server/include/main.h	/^  struct rte_lpm *lpm_tables[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_lpm
+mac2_addr	client/include/net_util.h	/^static const struct ether_addr mac2_addr = {$/;"	v	typeref:struct:ether_addr
+macFrameworkPath	.vscode/c_cpp_properties.json	/^            "macFrameworkPath": [],$/;"	f
+main	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/client/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/client/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/server/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/server/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	client/cmake/client.c	/^main(int argc, char *argv[])$/;"	f
+main	client/src/client.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	junk/client.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	junk/server.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	old/basic_fwd.c	/^int main(int argc, char *argv[])$/;"	f
+main	old/client.c	/^int main(int argc, char const *argv[])$/;"	f
+main	old/example_client.c	/^main(int argc, char *argv[])$/;"	f
+main	old/lb_main.c	/^main(int argc, char **argv)$/;"	f
+main	old/main.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	old/multi_process_client.c	/^int main(int argc, char *argv[])$/;"	f
+main	old/multi_process_server.c	/^main(int argc, char *argv[])$/;"	f
+main	old/old_client.c	/^int main(int argc, char const *argv[])$/;"	f
+main	old/old_server.c	/^int main(int argc, char *argv[])$/;"	f
+main	old/old_test.c	/^int main(int argc, char *argv[])$/;"	f
+main	old/rocksdb_main.c	/^int main(int argc, char* argv[]) {$/;"	f
+main	old/server.c	/^int main(int argc, char **argv) {$/;"	f
+main	old/test.c	/^int main(int argc, char *argv[])$/;"	f
+main	server/src/server.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	src/client.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	src/server.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	src_alternate/main.c	/^int main(int argc, char *argv[])$/;"	f
+map_insert_node	old/hashmap.c	/^int map_insert_node(hashmap * h, char * k){$/;"	f
+map_lookup_node	old/hashmap.c	/^node * map_lookup_node(hashmap * h, char * key){$/;"	f
+map_remove_node	old/hashmap.c	/^int map_remove_node(hashmap * h, char * key){$/;"	f
+map_rollback_to_checkpoint	old/hashmap.c	/^int map_rollback_to_checkpoint(hashmap * h){$/;"	f
+map_set_checkpoint	old/hashmap.c	/^int map_set_checkpoint(hashmap * h){$/;"	f
+mbuf_in	client/include/main.h	/^    struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_io::__anon12	typeref:struct:app_lcore_params_io::__anon12::app_mbuf_array
+mbuf_in	client/include/main.h	/^  struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_in	include/main.h	/^        struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_io::__anon16	typeref:struct:app_lcore_params_io::__anon16::app_mbuf_array
+mbuf_in	include/main.h	/^    struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_in	old/lb_main.h	/^        struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_io::__anon3	typeref:struct:app_lcore_params_io::__anon3::app_mbuf_array
+mbuf_in	old/lb_main.h	/^    struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_in	old/main.h	/^        struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_io::__anon7	typeref:struct:app_lcore_params_io::__anon7::app_mbuf_array
+mbuf_in	old/main.h	/^    struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_in	server/include/main.h	/^    struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_io::__anon20	typeref:struct:app_lcore_params_io::__anon20::app_mbuf_array
+mbuf_in	server/include/main.h	/^  struct app_mbuf_array mbuf_in;$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_out	client/include/main.h	/^    struct app_mbuf_array mbuf_out[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon14	typeref:struct:app_lcore_params_io::__anon14::app_mbuf_array
+mbuf_out	client/include/main.h	/^    struct app_mbuf_array mbuf_out[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon12	typeref:struct:app_lcore_params_io::__anon12::app_mbuf_array
+mbuf_out	client/include/main.h	/^  struct app_mbuf_array mbuf_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_out	include/main.h	/^        struct app_mbuf_array mbuf_out[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon18	typeref:struct:app_lcore_params_io::__anon18::app_mbuf_array
+mbuf_out	include/main.h	/^        struct app_mbuf_array mbuf_out[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon16	typeref:struct:app_lcore_params_io::__anon16::app_mbuf_array
+mbuf_out	include/main.h	/^    struct app_mbuf_array mbuf_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_out	old/lb_main.h	/^        struct app_mbuf_array mbuf_out[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon5	typeref:struct:app_lcore_params_io::__anon5::app_mbuf_array
+mbuf_out	old/lb_main.h	/^        struct app_mbuf_array mbuf_out[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon3	typeref:struct:app_lcore_params_io::__anon3::app_mbuf_array
+mbuf_out	old/lb_main.h	/^    struct app_mbuf_array mbuf_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_out	old/main.h	/^        struct app_mbuf_array mbuf_out[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon9	typeref:struct:app_lcore_params_io::__anon9::app_mbuf_array
+mbuf_out	old/main.h	/^        struct app_mbuf_array mbuf_out[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon7	typeref:struct:app_lcore_params_io::__anon7::app_mbuf_array
+mbuf_out	old/main.h	/^    struct app_mbuf_array mbuf_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_out	server/include/main.h	/^    struct app_mbuf_array mbuf_out[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon22	typeref:struct:app_lcore_params_io::__anon22::app_mbuf_array
+mbuf_out	server/include/main.h	/^    struct app_mbuf_array mbuf_out[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon20	typeref:struct:app_lcore_params_io::__anon20::app_mbuf_array
+mbuf_out	server/include/main.h	/^  struct app_mbuf_array mbuf_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::app_mbuf_array
+mbuf_out_flush	client/include/main.h	/^    uint8_t mbuf_out_flush[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon14
+mbuf_out_flush	client/include/main.h	/^    uint8_t mbuf_out_flush[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon12
+mbuf_out_flush	client/include/main.h	/^  uint8_t mbuf_out_flush[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+mbuf_out_flush	include/main.h	/^        uint8_t mbuf_out_flush[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon18
+mbuf_out_flush	include/main.h	/^        uint8_t mbuf_out_flush[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon16
+mbuf_out_flush	include/main.h	/^    uint8_t mbuf_out_flush[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+mbuf_out_flush	old/lb_main.h	/^        uint8_t mbuf_out_flush[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon5
+mbuf_out_flush	old/lb_main.h	/^        uint8_t mbuf_out_flush[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon3
+mbuf_out_flush	old/lb_main.h	/^    uint8_t mbuf_out_flush[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+mbuf_out_flush	old/main.h	/^        uint8_t mbuf_out_flush[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon9
+mbuf_out_flush	old/main.h	/^        uint8_t mbuf_out_flush[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon7
+mbuf_out_flush	old/main.h	/^    uint8_t mbuf_out_flush[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+mbuf_out_flush	server/include/main.h	/^    uint8_t mbuf_out_flush[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon22
+mbuf_out_flush	server/include/main.h	/^    uint8_t mbuf_out_flush[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon20
+mbuf_out_flush	server/include/main.h	/^  uint8_t mbuf_out_flush[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+mbuf_queue	old/example_client.c	/^struct mbuf_queue {$/;"	s	file:
+message	client/include/datastore.h	/^  char message[MAXBUFSIZE];$/;"	m	struct:app_hdr
+message	include/datastore.h	/^  char message[MAXBUFSIZE];$/;"	m	struct:app_hdr
+message	old/datastore.h	/^  char message[MAXBUFSIZE];$/;"	m	struct:app_hdr
+message	server/include/datastore.h	/^  char message[MAXBUFSIZE];$/;"	m	struct:app_hdr
+message	src_alternate/datastore.h	/^  char message[MAXBUFSIZE];$/;"	m	struct:app_hdr
+msgtype	client/include/datastore.h	/^  uint16_t msgtype;$/;"	m	struct:app_hdr
+msgtype	include/datastore.h	/^  uint16_t msgtype;$/;"	m	struct:app_hdr
+msgtype	old/datastore.h	/^  uint16_t msgtype;$/;"	m	struct:app_hdr
+msgtype	server/include/datastore.h	/^  uint16_t msgtype;$/;"	m	struct:app_hdr
+msgtype	src_alternate/datastore.h	/^  uint16_t msgtype;$/;"	m	struct:app_hdr
+my_ip	old/test.c	/^uint32_t my_ip = IPv4(192, 168, 4, 96);$/;"	v
+n_lpm_rules	client/include/main.h	/^  uint32_t n_lpm_rules;$/;"	m	struct:app_params
+n_lpm_rules	include/main.h	/^    uint32_t n_lpm_rules;$/;"	m	struct:app_params
+n_lpm_rules	old/lb_main.h	/^    uint32_t n_lpm_rules;$/;"	m	struct:app_params
+n_lpm_rules	old/main.h	/^    uint32_t n_lpm_rules;$/;"	m	struct:app_params
+n_lpm_rules	server/include/main.h	/^  uint32_t n_lpm_rules;$/;"	m	struct:app_params
+n_mbufs	client/include/main.h	/^  uint32_t n_mbufs;$/;"	m	struct:app_mbuf_array
+n_mbufs	include/main.h	/^	uint32_t n_mbufs;$/;"	m	struct:app_mbuf_array
+n_mbufs	old/lb_main.h	/^    uint32_t n_mbufs;$/;"	m	struct:app_mbuf_array
+n_mbufs	old/main.h	/^	uint32_t n_mbufs;$/;"	m	struct:app_mbuf_array
+n_mbufs	server/include/main.h	/^  uint32_t n_mbufs;$/;"	m	struct:app_mbuf_array
+n_nic_ports	client/include/main.h	/^    uint32_t n_nic_ports;$/;"	m	struct:app_lcore_params_io::__anon14
+n_nic_ports	include/main.h	/^        uint32_t n_nic_ports;$/;"	m	struct:app_lcore_params_io::__anon18
+n_nic_ports	old/lb_main.h	/^        uint32_t n_nic_ports;$/;"	m	struct:app_lcore_params_io::__anon5
+n_nic_ports	old/main.h	/^        uint32_t n_nic_ports;$/;"	m	struct:app_lcore_params_io::__anon9
+n_nic_ports	server/include/main.h	/^    uint32_t n_nic_ports;$/;"	m	struct:app_lcore_params_io::__anon22
+n_nic_queues	client/include/main.h	/^    uint32_t n_nic_queues;$/;"	m	struct:app_lcore_params_io::__anon12
+n_nic_queues	include/main.h	/^        uint32_t n_nic_queues;$/;"	m	struct:app_lcore_params_io::__anon16
+n_nic_queues	old/lb_main.h	/^        uint32_t n_nic_queues;$/;"	m	struct:app_lcore_params_io::__anon3
+n_nic_queues	old/main.h	/^        uint32_t n_nic_queues;$/;"	m	struct:app_lcore_params_io::__anon7
+n_nic_queues	server/include/main.h	/^    uint32_t n_nic_queues;$/;"	m	struct:app_lcore_params_io::__anon20
+n_rings	client/include/main.h	/^    uint32_t n_rings;$/;"	m	struct:app_lcore_params_io::__anon12
+n_rings	include/main.h	/^        uint32_t n_rings;$/;"	m	struct:app_lcore_params_io::__anon16
+n_rings	old/lb_main.h	/^        uint32_t n_rings;$/;"	m	struct:app_lcore_params_io::__anon3
+n_rings	old/main.h	/^        uint32_t n_rings;$/;"	m	struct:app_lcore_params_io::__anon7
+n_rings	server/include/main.h	/^    uint32_t n_rings;$/;"	m	struct:app_lcore_params_io::__anon20
+n_rings_in	client/include/main.h	/^  uint32_t n_rings_in;$/;"	m	struct:app_lcore_params_worker
+n_rings_in	include/main.h	/^    uint32_t n_rings_in;$/;"	m	struct:app_lcore_params_worker
+n_rings_in	old/lb_main.h	/^    uint32_t n_rings_in;$/;"	m	struct:app_lcore_params_worker
+n_rings_in	old/main.h	/^    uint32_t n_rings_in;$/;"	m	struct:app_lcore_params_worker
+n_rings_in	server/include/main.h	/^  uint32_t n_rings_in;$/;"	m	struct:app_lcore_params_worker
+name	.vscode/c_cpp_properties.json	/^            "name": "Mac",$/;"	f
+name	old/rocksdb_main.c	/^    char *name;			\/* User printable name of the function. *\/$/;"	m	struct:__anon11	file:
+nic_ports	client/include/main.h	/^    uint16_t nic_ports[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon14
+nic_ports	include/main.h	/^        uint16_t nic_ports[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon18
+nic_ports	old/lb_main.h	/^        uint16_t nic_ports[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon5
+nic_ports	old/main.h	/^        uint16_t nic_ports[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon9
+nic_ports	server/include/main.h	/^    uint16_t nic_ports[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon22
+nic_ports_count	client/include/main.h	/^    uint32_t nic_ports_count[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon14
+nic_ports_count	include/main.h	/^        uint32_t nic_ports_count[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon18
+nic_ports_count	old/lb_main.h	/^        uint32_t nic_ports_count[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon5
+nic_ports_count	old/main.h	/^        uint32_t nic_ports_count[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon9
+nic_ports_count	server/include/main.h	/^    uint32_t nic_ports_count[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon22
+nic_ports_iters	client/include/main.h	/^    uint32_t nic_ports_iters[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon14
+nic_ports_iters	include/main.h	/^        uint32_t nic_ports_iters[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon18
+nic_ports_iters	old/lb_main.h	/^        uint32_t nic_ports_iters[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon5
+nic_ports_iters	old/main.h	/^        uint32_t nic_ports_iters[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon9
+nic_ports_iters	server/include/main.h	/^    uint32_t nic_ports_iters[APP_MAX_NIC_TX_PORTS_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon22
+nic_queues	client/include/main.h	/^    } nic_queues[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon12	typeref:struct:app_lcore_params_io::__anon12::__anon13
+nic_queues	include/main.h	/^        } nic_queues[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon16	typeref:struct:app_lcore_params_io::__anon16::__anon17
+nic_queues	old/lb_main.h	/^        } nic_queues[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon3	typeref:struct:app_lcore_params_io::__anon3::__anon4
+nic_queues	old/main.h	/^        } nic_queues[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon7	typeref:struct:app_lcore_params_io::__anon7::__anon8
+nic_queues	server/include/main.h	/^    } nic_queues[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon20	typeref:struct:app_lcore_params_io::__anon20::__anon21
+nic_queues_count	client/include/main.h	/^    uint32_t nic_queues_count[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon12
+nic_queues_count	include/main.h	/^        uint32_t nic_queues_count[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon16
+nic_queues_count	old/lb_main.h	/^        uint32_t nic_queues_count[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon3
+nic_queues_count	old/main.h	/^        uint32_t nic_queues_count[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon7
+nic_queues_count	server/include/main.h	/^    uint32_t nic_queues_count[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon20
+nic_queues_iters	client/include/main.h	/^    uint32_t nic_queues_iters[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon12
+nic_queues_iters	include/main.h	/^        uint32_t nic_queues_iters[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon16
+nic_queues_iters	old/lb_main.h	/^        uint32_t nic_queues_iters[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon3
+nic_queues_iters	old/main.h	/^        uint32_t nic_queues_iters[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon7
+nic_queues_iters	server/include/main.h	/^    uint32_t nic_queues_iters[APP_MAX_NIC_RX_QUEUES_PER_IO_LCORE];$/;"	m	struct:app_lcore_params_io::__anon20
+nic_rx_queue_mask	client/include/main.h	/^  uint8_t nic_rx_queue_mask[APP_MAX_NIC_PORTS][APP_MAX_RX_QUEUES_PER_NIC_PORT];$/;"	m	struct:app_params
+nic_rx_queue_mask	include/main.h	/^    uint8_t nic_rx_queue_mask[APP_MAX_NIC_PORTS][APP_MAX_RX_QUEUES_PER_NIC_PORT];$/;"	m	struct:app_params
+nic_rx_queue_mask	old/lb_main.h	/^    uint8_t nic_rx_queue_mask[APP_MAX_NIC_PORTS][APP_MAX_RX_QUEUES_PER_NIC_PORT];$/;"	m	struct:app_params
+nic_rx_queue_mask	old/main.h	/^    uint8_t nic_rx_queue_mask[APP_MAX_NIC_PORTS][APP_MAX_RX_QUEUES_PER_NIC_PORT];$/;"	m	struct:app_params
+nic_rx_queue_mask	server/include/main.h	/^  uint8_t nic_rx_queue_mask[APP_MAX_NIC_PORTS][APP_MAX_RX_QUEUES_PER_NIC_PORT];$/;"	m	struct:app_params
+nic_rx_ring_size	client/include/main.h	/^  uint32_t nic_rx_ring_size;$/;"	m	struct:app_params
+nic_rx_ring_size	include/main.h	/^    uint32_t nic_rx_ring_size;$/;"	m	struct:app_params
+nic_rx_ring_size	old/lb_main.h	/^    uint32_t nic_rx_ring_size;$/;"	m	struct:app_params
+nic_rx_ring_size	old/main.h	/^    uint32_t nic_rx_ring_size;$/;"	m	struct:app_params
+nic_rx_ring_size	server/include/main.h	/^  uint32_t nic_rx_ring_size;$/;"	m	struct:app_params
+nic_tx_port_mask	client/include/main.h	/^  uint8_t nic_tx_port_mask[APP_MAX_NIC_PORTS];$/;"	m	struct:app_params
+nic_tx_port_mask	include/main.h	/^    uint8_t nic_tx_port_mask[APP_MAX_NIC_PORTS];$/;"	m	struct:app_params
+nic_tx_port_mask	old/lb_main.h	/^    uint8_t nic_tx_port_mask[APP_MAX_NIC_PORTS];$/;"	m	struct:app_params
+nic_tx_port_mask	old/main.h	/^    uint8_t nic_tx_port_mask[APP_MAX_NIC_PORTS];$/;"	m	struct:app_params
+nic_tx_port_mask	server/include/main.h	/^  uint8_t nic_tx_port_mask[APP_MAX_NIC_PORTS];$/;"	m	struct:app_params
+nic_tx_ring_size	client/include/main.h	/^  uint32_t nic_tx_ring_size;$/;"	m	struct:app_params
+nic_tx_ring_size	include/main.h	/^    uint32_t nic_tx_ring_size;$/;"	m	struct:app_params
+nic_tx_ring_size	old/lb_main.h	/^    uint32_t nic_tx_ring_size;$/;"	m	struct:app_params
+nic_tx_ring_size	old/main.h	/^    uint32_t nic_tx_ring_size;$/;"	m	struct:app_params
+nic_tx_ring_size	server/include/main.h	/^  uint32_t nic_tx_ring_size;$/;"	m	struct:app_params
+node	old/hashmap.h	/^typedef struct node{$/;"	s
+node	old/hashmap.h	/^} node;$/;"	t	typeref:struct:node
+node_list	old/hashmap.h	/^  node ** node_list;$/;"	m	struct:hashmap
+num_ports	client/include/common.h	/^	uint16_t num_ports;$/;"	m	struct:port_info
+num_workers	client/include/datastore.h	/^  int num_workers;$/;"	m	struct:datastore_env_params
+num_workers	include/datastore.h	/^  int num_workers;$/;"	m	struct:datastore_env_params
+num_workers	old/datastore.h	/^  int num_workers;$/;"	m	struct:datastore_env_params
+num_workers	old/old_datastore.h	/^    uint32_t num_workers; \/\/ REVIEW: why uint32_t, what is this var used for?$/;"	m	struct:rocksdb_txdb_params
+num_workers	server/include/datastore.h	/^  int num_workers;$/;"	m	struct:datastore_env_params
+open_database	client/src/datastore.c	/^int open_database(struct datastore_env_params *rocks, int id) {$/;"	f
+open_database	old/datastore.c	/^int open_database(struct datastore_env_params *rocks, int id) {$/;"	f
+open_database	server/src/datastore.c	/^int open_database(struct datastore_env_params *rocks, int id) {$/;"	f
+open_database	src/datastore.c	/^int open_database(struct datastore_env_params *rocks, int id) {$/;"	f
+open_database	src_alternate/datastore.c	/^int open_database(struct datastore_worker_params *worker ,char *name, rocksdb_options_t *db_options, rocksdb_transactiondb_options_t *txdb_options)$/;"	f
+open_txdb	old/old_datastore.c	/^int open_txdb(char *db_path) {$/;"	f
+options	client/include/datastore.h	/^  rocksdb_options_t *options;$/;"	m	struct:datastore_env_params
+options	include/datastore.h	/^  rocksdb_options_t *options;$/;"	m	struct:datastore_env_params
+options	old/datastore.h	/^  rocksdb_options_t *options;$/;"	m	struct:datastore_env_params
+options	old/old_datastore.h	/^    rocksdb_options_t *options;                    \/\/ options for the base database (not transaction database)$/;"	m	struct:rocksdb_txdb_params
+options	server/include/datastore.h	/^  rocksdb_options_t *options;$/;"	m	struct:datastore_env_params
+options	src_alternate/datastore.h	/^    rocksdb_options_t *options;$/;"	m	struct:datastore_env_params
+output_bufs	old/example_client.c	/^static struct mbuf_queue output_bufs[RTE_MAX_ETHPORTS];$/;"	v	typeref:struct:mbuf_queue	file:
+output_ports	client/cmake/client.c	/^static uint16_t output_ports[RTE_MAX_ETHPORTS];$/;"	v	file:
+output_ports	old/example_client.c	/^static uint8_t output_ports[RTE_MAX_ETHPORTS];$/;"	v	file:
+output_ports	old/multi_process_client.c	/^static uint16_t output_ports[RTE_MAX_ETHPORTS];$/;"	v	file:
+parse_app_args	client/cmake/client.c	/^parse_app_args(int argc, char *argv[])$/;"	f	file:
+parse_app_args	old/example_client.c	/^parse_app_args(int argc, char *argv[])$/;"	f	file:
+parse_app_args	old/multi_process_client.c	/^parse_app_args(int argc, char *argv[])$/;"	f	file:
+parse_arg_bsz	client/src/config.c	/^parse_arg_bsz(const char *arg)$/;"	f	file:
+parse_arg_bsz	old/config.c	/^parse_arg_bsz(const char *arg)$/;"	f	file:
+parse_arg_bsz	old/lb_config.c	/^parse_arg_bsz(const char *arg)$/;"	f	file:
+parse_arg_bsz	server/src/config.c	/^parse_arg_bsz(const char *arg)$/;"	f	file:
+parse_arg_bsz	src/config.c	/^parse_arg_bsz(const char *arg)$/;"	f	file:
+parse_arg_ip_address	client/src/client.c	/^static int parse_arg_ip_address(const char *arg, struct sockaddr_in *addr) {$/;"	f	file:
+parse_arg_ip_address	server/src/server.c	/^static int parse_arg_ip_address(const char *arg, struct sockaddr_in *addr) {$/;"	f	file:
+parse_arg_lpm	client/src/config.c	/^parse_arg_lpm(const char *arg)$/;"	f	file:
+parse_arg_lpm	old/config.c	/^parse_arg_lpm(const char *arg)$/;"	f	file:
+parse_arg_lpm	old/lb_config.c	/^parse_arg_lpm(const char *arg)$/;"	f	file:
+parse_arg_lpm	server/src/config.c	/^parse_arg_lpm(const char *arg)$/;"	f	file:
+parse_arg_lpm	src/config.c	/^parse_arg_lpm(const char *arg)$/;"	f	file:
+parse_arg_pos_lb	client/src/config.c	/^parse_arg_pos_lb(const char *arg)$/;"	f	file:
+parse_arg_pos_lb	old/config.c	/^parse_arg_pos_lb(const char *arg)$/;"	f	file:
+parse_arg_pos_lb	old/lb_config.c	/^parse_arg_pos_lb(const char *arg)$/;"	f	file:
+parse_arg_pos_lb	server/src/config.c	/^parse_arg_pos_lb(const char *arg)$/;"	f	file:
+parse_arg_pos_lb	src/config.c	/^parse_arg_pos_lb(const char *arg)$/;"	f	file:
+parse_arg_rsz	client/src/config.c	/^parse_arg_rsz(const char *arg)$/;"	f	file:
+parse_arg_rsz	old/config.c	/^parse_arg_rsz(const char *arg)$/;"	f	file:
+parse_arg_rsz	old/lb_config.c	/^parse_arg_rsz(const char *arg)$/;"	f	file:
+parse_arg_rsz	server/src/config.c	/^parse_arg_rsz(const char *arg)$/;"	f	file:
+parse_arg_rsz	src/config.c	/^parse_arg_rsz(const char *arg)$/;"	f	file:
+parse_arg_rx	client/src/config.c	/^parse_arg_rx(const char *arg)$/;"	f	file:
+parse_arg_rx	old/config.c	/^parse_arg_rx(const char *arg)$/;"	f	file:
+parse_arg_rx	old/lb_config.c	/^parse_arg_rx(const char *arg)$/;"	f	file:
+parse_arg_rx	server/src/config.c	/^parse_arg_rx(const char *arg)$/;"	f	file:
+parse_arg_rx	src/config.c	/^parse_arg_rx(const char *arg)$/;"	f	file:
+parse_arg_tx	client/src/config.c	/^parse_arg_tx(const char *arg)$/;"	f	file:
+parse_arg_tx	old/config.c	/^parse_arg_tx(const char *arg)$/;"	f	file:
+parse_arg_tx	old/lb_config.c	/^parse_arg_tx(const char *arg)$/;"	f	file:
+parse_arg_tx	server/src/config.c	/^parse_arg_tx(const char *arg)$/;"	f	file:
+parse_arg_tx	src/config.c	/^parse_arg_tx(const char *arg)$/;"	f	file:
+parse_arg_w	client/src/config.c	/^parse_arg_w(const char *arg)$/;"	f	file:
+parse_arg_w	old/config.c	/^parse_arg_w(const char *arg)$/;"	f	file:
+parse_arg_w	old/lb_config.c	/^parse_arg_w(const char *arg)$/;"	f	file:
+parse_arg_w	server/src/config.c	/^parse_arg_w(const char *arg)$/;"	f	file:
+parse_arg_w	src/config.c	/^parse_arg_w(const char *arg)$/;"	f	file:
+parse_client_num	client/cmake/client.c	/^parse_client_num(const char *client)$/;"	f	file:
+parse_client_num	old/example_client.c	/^parse_client_num(const char *client)$/;"	f	file:
+parse_client_num	old/multi_process_client.c	/^parse_client_num(const char *client)$/;"	f	file:
+parse_request	old/client.c	/^int parse_request(char *req)$/;"	f
+pool	client/include/main.h	/^  struct rte_mempool *pool;$/;"	m	struct:app_lcore_params	typeref:struct:app_lcore_params::rte_mempool
+pool	include/main.h	/^    struct rte_mempool *pool;$/;"	m	struct:app_lcore_params	typeref:struct:app_lcore_params::rte_mempool
+pool	old/lb_main.h	/^    struct rte_mempool *pool;$/;"	m	struct:app_lcore_params	typeref:struct:app_lcore_params::rte_mempool
+pool	old/main.h	/^    struct rte_mempool *pool;$/;"	m	struct:app_lcore_params	typeref:struct:app_lcore_params::rte_mempool
+pool	server/include/main.h	/^  struct rte_mempool *pool;$/;"	m	struct:app_lcore_params	typeref:struct:app_lcore_params::rte_mempool
+pools	client/include/main.h	/^  struct rte_mempool *pools[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_mempool
+pools	include/main.h	/^    struct rte_mempool *pools[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_mempool
+pools	old/lb_main.h	/^    struct rte_mempool *pools[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_mempool
+pools	old/main.h	/^    struct rte_mempool *pools[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_mempool
+pools	server/include/main.h	/^  struct rte_mempool *pools[APP_MAX_SOCKETS];$/;"	m	struct:app_params	typeref:struct:app_params::rte_mempool
+port	client/include/main.h	/^      uint16_t port;$/;"	m	struct:app_lcore_params_io::__anon12::__anon13
+port	include/main.h	/^            uint16_t port;$/;"	m	struct:app_lcore_params_io::__anon16::__anon17
+port	old/lb_main.h	/^            uint16_t port;$/;"	m	struct:app_lcore_params_io::__anon3::__anon4
+port	old/main.h	/^            uint16_t port;$/;"	m	struct:app_lcore_params_io::__anon7::__anon8
+port	server/include/main.h	/^      uint16_t port;$/;"	m	struct:app_lcore_params_io::__anon20::__anon21
+port_conf	client/src/init.c	/^static struct rte_eth_conf port_conf = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_conf	old/init.c	/^static struct rte_eth_conf port_conf = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_conf	old/lb_init.c	/^static struct rte_eth_conf port_conf = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_conf	server/src/init.c	/^static struct rte_eth_conf port_conf = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_conf	src/init.c	/^static struct rte_eth_conf port_conf = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_conf_default	old/basic_fwd.c	/^static const struct rte_eth_conf port_conf_default = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_conf_default	old/old_test.c	/^static const struct rte_eth_conf port_conf_default = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_conf_default	old/test.c	/^static const struct rte_eth_conf port_conf_default = {$/;"	v	typeref:struct:rte_eth_conf	file:
+port_info	client/include/common.h	/^struct port_info {$/;"	s
+port_init	old/basic_fwd.c	/^port_init(uint16_t port, struct rte_mempool *mbuf_pool)$/;"	f	file:
+port_init	old/old_test.c	/^port_init(uint16_t port, struct rte_mempool *mbuf_pool)$/;"	f	file:
+port_init	old/test.c	/^port_init(uint16_t port, struct rte_mempool *mbuf_pool)$/;"	f	file:
+pos	old/hashmap.h	/^  int pos;$/;"	m	struct:node
+pos_lb	client/include/main.h	/^  uint8_t pos_lb;$/;"	m	struct:app_params
+pos_lb	include/main.h	/^    uint8_t pos_lb;$/;"	m	struct:app_params
+pos_lb	old/lb_main.h	/^    uint8_t pos_lb;$/;"	m	struct:app_params
+pos_lb	old/main.h	/^    uint8_t pos_lb;$/;"	m	struct:app_params
+pos_lb	server/include/main.h	/^  uint8_t pos_lb;$/;"	m	struct:app_params
+prepare_hw_checksum	client/src/net_util.c	/^void prepare_hw_checksum(struct rte_mbuf *pkt_in, size_t data_size) {$/;"	f
+prepare_hw_checksum	old/test.c	/^static void prepare_hw_checksum(struct rte_mbuf *pkt_in, size_t data_size)$/;"	f	file:
+prepare_hw_checksum	server/src/server.c	/^void prepare_hw_checksum(struct rte_mbuf *pkt_in, size_t data_size) {$/;"	f
+prepare_paxos_message	client/src/net_util.c	/^void prepare_paxos_message(struct rte_mbuf *created_pkt, uint16_t port,$/;"	f
+process_packets	old/multi_process_server.c	/^process_packets(uint32_t port_num __rte_unused,$/;"	f	file:
+process_pkt	client/include/main.h	/^  worker_cb process_pkt;$/;"	m	struct:app_lcore_params_worker
+process_pkt	include/main.h	/^    worker_cb process_pkt;$/;"	m	struct:app_lcore_params_worker
+process_pkt	old/test.c	/^process_pkt(uint16_t port, struct rte_mbuf *pkt)$/;"	f	file:
+process_pkt	server/include/main.h	/^  worker_cb process_pkt;$/;"	m	struct:app_lcore_params_worker
+qnxnto	CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/client/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/client/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/server/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/server/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+queue	client/include/main.h	/^      uint8_t queue;$/;"	m	struct:app_lcore_params_io::__anon12::__anon13
+queue	include/main.h	/^            uint8_t queue;$/;"	m	struct:app_lcore_params_io::__anon16::__anon17
+queue	old/lb_main.h	/^            uint8_t queue;$/;"	m	struct:app_lcore_params_io::__anon3::__anon4
+queue	old/main.h	/^            uint8_t queue;$/;"	m	struct:app_lcore_params_io::__anon7::__anon8
+queue	server/include/main.h	/^      uint8_t queue;$/;"	m	struct:app_lcore_params_io::__anon20::__anon21
+read_count	old/old_datastore.h	/^    uint32_t read_count;$/;"	m	struct:rocksdb_lcore_params
+read_keyval_pair	client/src/datastore.c	/^int read_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+read_keyval_pair	old/datastore.c	/^int read_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+read_keyval_pair	server/src/datastore.c	/^int read_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+read_keyval_pair	src/datastore.c	/^int read_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+read_keyval_pair	src_alternate/datastore.c	/^int read_keyval_pair(struct datastore_worker_params *worker, rocksdb_readoptions_t *read_options, char *key, size_t keylen)$/;"	f
+read_options	client/include/datastore.h	/^  rocksdb_readoptions_t *read_options;$/;"	m	struct:datastore_env_params
+read_options	include/datastore.h	/^  rocksdb_readoptions_t *read_options;$/;"	m	struct:datastore_env_params
+read_options	old/datastore.h	/^  rocksdb_readoptions_t *read_options;$/;"	m	struct:datastore_env_params
+read_options	old/old_datastore.h	/^    rocksdb_readoptions_t *read_options;           \/\/ read options$/;"	m	struct:rocksdb_txdb_params
+read_options	server/include/datastore.h	/^  rocksdb_readoptions_t *read_options;$/;"	m	struct:datastore_env_params
+read_options	src_alternate/datastore.h	/^    rocksdb_readoptions_t *read_options;$/;"	m	struct:datastore_env_params
+ring_rx_size	client/include/main.h	/^  uint32_t ring_rx_size;$/;"	m	struct:app_params
+ring_rx_size	include/main.h	/^    uint32_t ring_rx_size;$/;"	m	struct:app_params
+ring_rx_size	old/lb_main.h	/^    uint32_t ring_rx_size;$/;"	m	struct:app_params
+ring_rx_size	old/main.h	/^    uint32_t ring_rx_size;$/;"	m	struct:app_params
+ring_rx_size	server/include/main.h	/^  uint32_t ring_rx_size;$/;"	m	struct:app_params
+ring_tx_size	client/include/main.h	/^  uint32_t ring_tx_size;$/;"	m	struct:app_params
+ring_tx_size	include/main.h	/^    uint32_t ring_tx_size;$/;"	m	struct:app_params
+ring_tx_size	old/lb_main.h	/^    uint32_t ring_tx_size;$/;"	m	struct:app_params
+ring_tx_size	old/main.h	/^    uint32_t ring_tx_size;$/;"	m	struct:app_params
+ring_tx_size	server/include/main.h	/^  uint32_t ring_tx_size;$/;"	m	struct:app_params
+rings	client/include/main.h	/^    struct rte_ring *rings[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon14	typeref:struct:app_lcore_params_io::__anon14::rte_ring
+rings	client/include/main.h	/^    struct rte_ring *rings[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon12	typeref:struct:app_lcore_params_io::__anon12::rte_ring
+rings	include/main.h	/^        struct rte_ring *rings[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon18	typeref:struct:app_lcore_params_io::__anon18::rte_ring
+rings	include/main.h	/^        struct rte_ring *rings[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon16	typeref:struct:app_lcore_params_io::__anon16::rte_ring
+rings	old/lb_main.h	/^        struct rte_ring *rings[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon5	typeref:struct:app_lcore_params_io::__anon5::rte_ring
+rings	old/lb_main.h	/^        struct rte_ring *rings[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon3	typeref:struct:app_lcore_params_io::__anon3::rte_ring
+rings	old/main.h	/^        struct rte_ring *rings[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon9	typeref:struct:app_lcore_params_io::__anon9::rte_ring
+rings	old/main.h	/^        struct rte_ring *rings[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon7	typeref:struct:app_lcore_params_io::__anon7::rte_ring
+rings	server/include/main.h	/^    struct rte_ring *rings[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon22	typeref:struct:app_lcore_params_io::__anon22::rte_ring
+rings	server/include/main.h	/^    struct rte_ring *rings[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon20	typeref:struct:app_lcore_params_io::__anon20::rte_ring
+rings_count	client/include/main.h	/^    uint32_t rings_count[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon14
+rings_count	client/include/main.h	/^    uint32_t rings_count[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon12
+rings_count	include/main.h	/^        uint32_t rings_count[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon18
+rings_count	include/main.h	/^        uint32_t rings_count[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon16
+rings_count	old/lb_main.h	/^        uint32_t rings_count[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon5
+rings_count	old/lb_main.h	/^        uint32_t rings_count[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon3
+rings_count	old/main.h	/^        uint32_t rings_count[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon9
+rings_count	old/main.h	/^        uint32_t rings_count[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon7
+rings_count	server/include/main.h	/^    uint32_t rings_count[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon22
+rings_count	server/include/main.h	/^    uint32_t rings_count[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon20
+rings_in	client/include/main.h	/^  struct rte_ring *rings_in[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_in	include/main.h	/^    struct rte_ring *rings_in[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_in	old/lb_main.h	/^    struct rte_ring *rings_in[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_in	old/main.h	/^    struct rte_ring *rings_in[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_in	server/include/main.h	/^  struct rte_ring *rings_in[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_in_count	client/include/main.h	/^  uint32_t rings_in_count[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_count	include/main.h	/^    uint32_t rings_in_count[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_count	old/lb_main.h	/^    uint32_t rings_in_count[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_count	old/main.h	/^    uint32_t rings_in_count[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_count	server/include/main.h	/^  uint32_t rings_in_count[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_iters	client/include/main.h	/^  uint32_t rings_in_iters[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_iters	include/main.h	/^    uint32_t rings_in_iters[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_iters	old/lb_main.h	/^    uint32_t rings_in_iters[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_iters	old/main.h	/^    uint32_t rings_in_iters[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_in_iters	server/include/main.h	/^  uint32_t rings_in_iters[APP_MAX_IO_LCORES];$/;"	m	struct:app_lcore_params_worker
+rings_iters	client/include/main.h	/^    uint32_t rings_iters[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon14
+rings_iters	client/include/main.h	/^    uint32_t rings_iters[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon12
+rings_iters	include/main.h	/^        uint32_t rings_iters[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon18
+rings_iters	include/main.h	/^        uint32_t rings_iters[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon16
+rings_iters	old/lb_main.h	/^        uint32_t rings_iters[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon5
+rings_iters	old/lb_main.h	/^        uint32_t rings_iters[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon3
+rings_iters	old/main.h	/^        uint32_t rings_iters[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon9
+rings_iters	old/main.h	/^        uint32_t rings_iters[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon7
+rings_iters	server/include/main.h	/^    uint32_t rings_iters[APP_MAX_NIC_PORTS][APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon22
+rings_iters	server/include/main.h	/^    uint32_t rings_iters[APP_MAX_WORKER_LCORES];$/;"	m	struct:app_lcore_params_io::__anon20
+rings_out	client/include/main.h	/^  struct rte_ring *rings_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_out	include/main.h	/^    struct rte_ring *rings_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_out	old/lb_main.h	/^    struct rte_ring *rings_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_out	old/main.h	/^    struct rte_ring *rings_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_out	server/include/main.h	/^  struct rte_ring *rings_out[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker	typeref:struct:app_lcore_params_worker::rte_ring
+rings_out_count	client/include/main.h	/^  uint32_t rings_out_count[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_count	include/main.h	/^    uint32_t rings_out_count[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_count	old/lb_main.h	/^    uint32_t rings_out_count[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_count	old/main.h	/^    uint32_t rings_out_count[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_count	server/include/main.h	/^  uint32_t rings_out_count[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_iters	client/include/main.h	/^  uint32_t rings_out_iters[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_iters	include/main.h	/^    uint32_t rings_out_iters[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_iters	old/lb_main.h	/^    uint32_t rings_out_iters[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_iters	old/main.h	/^    uint32_t rings_out_iters[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rings_out_iters	server/include/main.h	/^  uint32_t rings_out_iters[APP_MAX_NIC_PORTS];$/;"	m	struct:app_lcore_params_worker
+rocks_completion	old/rocksdb_main.c	/^rocks_completion (const char *text, int start, int end)$/;"	f
+rocksdb_env	junk/client.c	/^struct datastore_env_params rocksdb_env;$/;"	v	typeref:struct:datastore_env_params
+rocksdb_env	junk/server.c	/^struct datastore_env_params rocksdb_env;$/;"	v	typeref:struct:datastore_env_params
+rocksdb_env	old/main.c	/^struct datastore_env_params rocksdb_env;$/;"	v	typeref:struct:datastore_env_params
+rocksdb_env	server/src/server.c	/^struct datastore_env_params rocksdb_env;$/;"	v	typeref:struct:datastore_env_params
+rocksdb_env	src/client.c	/^struct datastore_env_params rocksdb_env;$/;"	v	typeref:struct:datastore_env_params
+rocksdb_env	src/server.c	/^struct datastore_env_params rocksdb_env;$/;"	v	typeref:struct:datastore_env_params
+rocksdb_env	src_alternate/main.c	/^struct datastore_env_params rocksdb_env;$/;"	v	typeref:struct:datastore_env_params
+rocksdb_lcore_params	old/old_datastore.h	/^struct rocksdb_lcore_params$/;"	s
+rocksdb_txdb_params	old/old_datastore.h	/^struct rocksdb_txdb_params$/;"	s
+rollback_to_last_savepoint	client/src/datastore.c	/^int rollback_to_last_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+rollback_to_last_savepoint	old/datastore.c	/^int rollback_to_last_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+rollback_to_last_savepoint	server/src/datastore.c	/^int rollback_to_last_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+rollback_to_last_savepoint	src/datastore.c	/^int rollback_to_last_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+rollback_to_last_savepoint	src_alternate/datastore.c	/^int rollback_to_last_savepoint(struct datastore_worker_params  *worker)$/;"	f
+rx	client/include/common.h	/^	uint64_t rx[RTE_MAX_ETHPORTS];$/;"	m	struct:rx_stats
+rx	client/include/main.h	/^  } rx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon12
+rx	include/main.h	/^    } rx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon16
+rx	old/lb_main.h	/^    } rx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon3
+rx	old/main.h	/^    } rx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon7
+rx	server/include/main.h	/^  } rx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon20
+rx_stats	client/include/common.h	/^	volatile struct rx_stats rx_stats;$/;"	m	struct:port_info	typeref:struct:port_info::rx_stats
+rx_stats	client/include/common.h	/^struct rx_stats{$/;"	s
+savepoint_count	client/include/datastore.h	/^  int savepoint_count[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+savepoint_count	include/datastore.h	/^  int savepoint_count[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+savepoint_count	old/datastore.h	/^  int savepoint_count[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+savepoint_count	server/include/datastore.h	/^  int savepoint_count[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+send_packets	old/example_client.c	/^send_packets(uint8_t port)$/;"	f	file:
+server	client/include/main.h	/^  struct sockaddr_in server;$/;"	m	struct:app_params	typeref:struct:app_params::sockaddr_in
+server	server/include/main.h	/^  struct sockaddr_in server; \/\/ mine$/;"	m	struct:app_params	typeref:struct:app_params::sockaddr_in
+server_addr	old/old_client.c	/^    struct sockaddr_in server_addr;$/;"	m	struct:client_context	typeref:struct:client_context::sockaddr_in	file:
+set_app_hdr	client/src/net_util.c	/^void set_app_hdr(struct app_hdr *px, uint16_t msgtype, uint8_t shards,$/;"	f
+set_ether_hdr	client/src/net_util.c	/^void set_ether_hdr(struct ether_hdr *eth, uint16_t ethtype,$/;"	f
+set_ip_addr	client/src/net_util.c	/^void set_ip_addr(struct ipv4_hdr *ip, uint32_t src, uint32_t dst) {$/;"	f
+set_ipv4_hdr	client/src/net_util.c	/^void set_ipv4_hdr(struct ipv4_hdr *ip, uint8_t proto, uint32_t src,$/;"	f
+set_savepoint	client/src/datastore.c	/^int set_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+set_savepoint	old/datastore.c	/^int set_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+set_savepoint	server/src/datastore.c	/^int set_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+set_savepoint	src/datastore.c	/^int set_savepoint(struct datastore_env_params *rocks, int db_id) {$/;"	f
+set_savepoint	src_alternate/datastore.c	/^int set_savepoint(struct datastore_worker_params * worker)$/;"	f
+set_udp_hdr	client/src/net_util.c	/^void set_udp_hdr(struct udp_hdr *udp, uint16_t src_port, uint16_t dst_port,$/;"	f
+set_udp_hdr_sockaddr_in	client/src/net_util.c	/^void set_udp_hdr_sockaddr_in(struct udp_hdr *udp, struct sockaddr_in *src,$/;"	f
+shard	src_alternate/datastore.h	/^	uint16_t shard; \/\/ leader shard$/;"	m	struct:app_hdr
+shards	client/include/datastore.h	/^  uint8_t shards;$/;"	m	struct:app_hdr
+shards	include/datastore.h	/^  uint8_t shards;$/;"	m	struct:app_hdr
+shards	old/datastore.h	/^  uint8_t shards;$/;"	m	struct:app_hdr
+shards	server/include/datastore.h	/^  uint8_t shards;$/;"	m	struct:app_hdr
+sigint_handler	old/client.c	/^void sigint_handler(int signal)$/;"	f
+sigint_handler	old/server.c	/^void sigint_handler(__attribute__((unused)) int signal)$/;"	f
+size	old/hashmap.h	/^  int size;$/;"	m	struct:hashmap
+sleep_lcore	old/multi_process_server.c	/^sleep_lcore(__attribute__((unused)) void *dummy)$/;"	f	file:
+split_transaction	src_alternate/datastore.c	/^int split_transaction() { return 0; }$/;"	f
+stop	old/client.c	/^volatile sig_atomic_t stop; \/\/ 0 to keep program running, 1 to stop$/;"	v
+stop	old/server.c	/^volatile sig_atomic_t stop;$/;"	v
+str_to_unsigned_array	client/src/config.c	/^str_to_unsigned_array($/;"	f	file:
+str_to_unsigned_array	old/config.c	/^str_to_unsigned_array($/;"	f	file:
+str_to_unsigned_array	old/lb_config.c	/^str_to_unsigned_array($/;"	f	file:
+str_to_unsigned_array	server/src/config.c	/^str_to_unsigned_array($/;"	f	file:
+str_to_unsigned_array	src/config.c	/^str_to_unsigned_array($/;"	f	file:
+str_to_unsigned_vals	client/src/config.c	/^str_to_unsigned_vals($/;"	f	file:
+str_to_unsigned_vals	old/config.c	/^str_to_unsigned_vals($/;"	f	file:
+str_to_unsigned_vals	old/lb_config.c	/^str_to_unsigned_vals($/;"	f	file:
+str_to_unsigned_vals	server/src/config.c	/^str_to_unsigned_vals($/;"	f	file:
+str_to_unsigned_vals	src/config.c	/^str_to_unsigned_vals($/;"	f	file:
+stripwhite	old/rocksdb_main.c	/^char * stripwhite (char *string)$/;"	f
+submit_bulk	client/src/client.c	/^void submit_bulk(uint8_t worker_id, uint32_t nb_pkts,$/;"	f
+top	old/example_client.c	/^	uint16_t top;$/;"	m	struct:mbuf_queue	file:
+total_cycles	old/old_test.c	/^    uint64_t total_cycles;$/;"	m	struct:__anon1	file:
+total_cycles	old/test.c	/^    uint64_t total_cycles;$/;"	m	struct:__anon2	file:
+total_delivered_count	old/old_datastore.h	/^    uint32_t total_delivered_count; \/\/ what is this used for?$/;"	m	struct:rocksdb_txdb_params
+total_pkts	old/old_test.c	/^    uint64_t total_pkts;$/;"	m	struct:__anon1	file:
+total_pkts	old/test.c	/^    uint64_t total_pkts;$/;"	m	struct:__anon2	file:
+transaction_cond	client/include/datastore.h	/^  pthread_cond_t transaction_cond;$/;"	m	struct:datastore_worker_params
+transaction_cond	include/datastore.h	/^  pthread_cond_t transaction_cond;$/;"	m	struct:datastore_worker_params
+transaction_cond	old/datastore.h	/^  pthread_cond_t transaction_cond;$/;"	m	struct:datastore_worker_params
+transaction_cond	old/old_datastore.h	/^    pthread_cond_t transaction_cond;$/;"	m	struct:rocksdb_lcore_params
+transaction_cond	server/include/datastore.h	/^  pthread_cond_t transaction_cond;$/;"	m	struct:datastore_worker_params
+transaction_done	client/include/datastore.h	/^  uint32_t transaction_done;$/;"	m	struct:datastore_worker_params
+transaction_done	include/datastore.h	/^  uint32_t transaction_done;$/;"	m	struct:datastore_worker_params
+transaction_done	old/datastore.h	/^  uint32_t transaction_done;$/;"	m	struct:datastore_worker_params
+transaction_done	old/old_datastore.h	/^    uint32_t transaction_done;$/;"	m	struct:rocksdb_lcore_params
+transaction_done	server/include/datastore.h	/^  uint32_t transaction_done;$/;"	m	struct:datastore_worker_params
+transaction_lock	client/include/datastore.h	/^  pthread_mutex_t transaction_lock;$/;"	m	struct:datastore_worker_params
+transaction_lock	include/datastore.h	/^  pthread_mutex_t transaction_lock;$/;"	m	struct:datastore_worker_params
+transaction_lock	old/datastore.h	/^  pthread_mutex_t transaction_lock;$/;"	m	struct:datastore_worker_params
+transaction_lock	old/old_datastore.h	/^    pthread_mutex_t transaction_lock;$/;"	m	struct:rocksdb_lcore_params
+transaction_lock	server/include/datastore.h	/^  pthread_mutex_t transaction_lock;$/;"	m	struct:datastore_worker_params
+tx	client/include/common.h	/^	uint64_t tx[RTE_MAX_ETHPORTS];$/;"	m	struct:tx_stats
+tx	client/include/datastore.h	/^  rocksdb_transaction_t *tx[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx	client/include/main.h	/^  } tx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon14
+tx	include/datastore.h	/^  rocksdb_transaction_t *tx[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx	include/main.h	/^    } tx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon18
+tx	old/datastore.h	/^  rocksdb_transaction_t *tx[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx	old/lb_main.h	/^    } tx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon5
+tx	old/main.h	/^    } tx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon9
+tx	old/old_datastore.h	/^    rocksdb_transaction_t *tx;                     \/\/ transaction pointer$/;"	m	struct:rocksdb_txdb_params
+tx	server/include/datastore.h	/^  rocksdb_transaction_t *tx[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx	server/include/main.h	/^  } tx;$/;"	m	struct:app_lcore_params_io	typeref:struct:app_lcore_params_io::__anon22
+tx	src_alternate/datastore.h	/^    rocksdb_transaction_t *tx;$/;"	m	struct:datastore_worker_params
+tx_buffer	client/cmake/client.c	/^struct rte_eth_dev_tx_buffer *tx_buffer[RTE_MAX_ETHPORTS];$/;"	v	typeref:struct:rte_eth_dev_tx_buffer
+tx_buffer	old/multi_process_client.c	/^struct rte_eth_dev_tx_buffer *tx_buffer[RTE_MAX_ETHPORTS];$/;"	v	typeref:struct:rte_eth_dev_tx_buffer
+tx_db	client/include/datastore.h	/^  rocksdb_transactiondb_t *tx_db[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx_db	include/datastore.h	/^  rocksdb_transactiondb_t *tx_db[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx_db	old/datastore.h	/^  rocksdb_transactiondb_t *tx_db[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx_db	old/old_datastore.h	/^    rocksdb_transactiondb_t *tx_db; \/\/ the database$/;"	m	struct:rocksdb_lcore_params
+tx_db	server/include/datastore.h	/^  rocksdb_transactiondb_t *tx_db[MAX_NB_PARTITION];$/;"	m	struct:datastore_env_params
+tx_db	src_alternate/datastore.h	/^    rocksdb_transactiondb_t *tx_db;$/;"	m	struct:datastore_worker_params
+tx_drop	client/include/common.h	/^	uint64_t tx_drop[RTE_MAX_ETHPORTS];$/;"	m	struct:tx_stats
+tx_options	client/include/datastore.h	/^  rocksdb_transaction_options_t *tx_options;$/;"	m	struct:datastore_env_params
+tx_options	include/datastore.h	/^  rocksdb_transaction_options_t *tx_options;$/;"	m	struct:datastore_env_params
+tx_options	old/datastore.h	/^  rocksdb_transaction_options_t *tx_options;$/;"	m	struct:datastore_env_params
+tx_options	old/old_datastore.h	/^    rocksdb_transaction_options_t *tx_options;     \/\/ transaction options$/;"	m	struct:rocksdb_txdb_params
+tx_options	server/include/datastore.h	/^  rocksdb_transaction_options_t *tx_options;$/;"	m	struct:datastore_env_params
+tx_options	src_alternate/datastore.h	/^    rocksdb_transaction_options_t *tx_options;$/;"	m	struct:datastore_env_params
+tx_stats	client/cmake/client.c	/^static volatile struct tx_stats *tx_stats;$/;"	v	typeref:struct:tx_stats	file:
+tx_stats	client/include/common.h	/^	volatile struct tx_stats tx_stats[MAX_CLIENTS];$/;"	m	struct:port_info	typeref:struct:port_info::tx_stats
+tx_stats	client/include/common.h	/^struct tx_stats{$/;"	s
+tx_stats	old/example_client.c	/^static volatile struct tx_stats *tx_stats;$/;"	v	typeref:struct:tx_stats	file:
+tx_stats	old/multi_process_client.c	/^static volatile struct tx_stats *tx_stats;$/;"	v	typeref:struct:tx_stats	file:
+txdb_deconstruct	old/old_datastore.c	/^int txdb_deconstruct(void) {$/;"	f
+txdb_options	client/include/datastore.h	/^  rocksdb_transactiondb_options_t *txdb_options;$/;"	m	struct:datastore_env_params
+txdb_options	include/datastore.h	/^  rocksdb_transactiondb_options_t *txdb_options;$/;"	m	struct:datastore_env_params
+txdb_options	old/datastore.h	/^  rocksdb_transactiondb_options_t *txdb_options;$/;"	m	struct:datastore_env_params
+txdb_options	old/old_datastore.h	/^    rocksdb_transactiondb_options_t *txdb_options; \/\/ options for the transaction database$/;"	m	struct:rocksdb_txdb_params
+txdb_options	server/include/datastore.h	/^  rocksdb_transactiondb_options_t *txdb_options;$/;"	m	struct:datastore_env_params
+txdb_options	src_alternate/datastore.h	/^    rocksdb_transactiondb_options_t *txdb_options;$/;"	m	struct:datastore_env_params
+txrocks	old/rocksdb_main.c	/^struct rocksdb_txdb_params txrocks;$/;"	v	typeref:struct:rocksdb_txdb_params
+type	client/include/main.h	/^  enum app_lcore_type type;$/;"	m	struct:app_lcore_params	typeref:enum:app_lcore_params::app_lcore_type
+type	include/main.h	/^    enum app_lcore_type type;$/;"	m	struct:app_lcore_params	typeref:enum:app_lcore_params::app_lcore_type
+type	old/lb_main.h	/^    enum app_lcore_type type;$/;"	m	struct:app_lcore_params	typeref:enum:app_lcore_params::app_lcore_type
+type	old/main.h	/^    enum app_lcore_type type;$/;"	m	struct:app_lcore_params	typeref:enum:app_lcore_params::app_lcore_type
+type	server/include/main.h	/^  enum app_lcore_type type;$/;"	m	struct:app_lcore_params	typeref:enum:app_lcore_params::app_lcore_type
+usage	client/cmake/client.c	/^usage(const char *progname)$/;"	f	file:
+usage	client/src/config.c	/^static const char usage[] =$/;"	v	file:
+usage	old/config.c	/^static const char usage[] =$/;"	v	file:
+usage	old/example_client.c	/^usage(const char *progname)$/;"	f	file:
+usage	old/lb_config.c	/^static const char usage[] =$/;"	v	file:
+usage	old/multi_process_client.c	/^usage(const char *progname)$/;"	f	file:
+usage	server/src/config.c	/^static const char usage[] =$/;"	v	file:
+usage	src/config.c	/^static const char usage[] =$/;"	v	file:
+version	.vscode/c_cpp_properties.json	/^    "version": 4$/;"	f
+worker	client/include/main.h	/^    struct app_lcore_params_worker worker;$/;"	m	union:app_lcore_params::__anon15	typeref:struct:app_lcore_params::__anon15::app_lcore_params_worker
+worker	include/main.h	/^        struct app_lcore_params_worker worker;$/;"	m	union:app_lcore_params::__anon19	typeref:struct:app_lcore_params::__anon19::app_lcore_params_worker
+worker	old/lb_main.h	/^        struct app_lcore_params_worker worker;$/;"	m	union:app_lcore_params::__anon6	typeref:struct:app_lcore_params::__anon6::app_lcore_params_worker
+worker	old/main.h	/^        struct app_lcore_params_worker worker;$/;"	m	union:app_lcore_params::__anon10	typeref:struct:app_lcore_params::__anon10::app_lcore_params_worker
+worker	old/old_datastore.h	/^    struct rocksdb_lcore_params worker[MAX_WORKER_CORE];$/;"	m	struct:rocksdb_txdb_params	typeref:struct:rocksdb_txdb_params::rocksdb_lcore_params
+worker	server/include/main.h	/^    struct app_lcore_params_worker worker;$/;"	m	union:app_lcore_params::__anon23	typeref:struct:app_lcore_params::__anon23::app_lcore_params_worker
+worker_cb	client/include/main.h	/^typedef int (*worker_cb)(struct rte_mbuf *pkt_in, void *arg);$/;"	t
+worker_cb	include/main.h	/^typedef int (*worker_cb)(struct rte_mbuf *pkt_in, void *arg);$/;"	t
+worker_cb	server/include/main.h	/^typedef int (*worker_cb)(struct rte_mbuf *pkt_in, void *arg);$/;"	t
+worker_id	client/include/datastore.h	/^  int worker_id;$/;"	m	struct:datastore_worker_params
+worker_id	client/include/main.h	/^  uint32_t worker_id;$/;"	m	struct:app_lcore_params_worker
+worker_id	include/datastore.h	/^  int worker_id;$/;"	m	struct:datastore_worker_params
+worker_id	include/main.h	/^    uint32_t worker_id;$/;"	m	struct:app_lcore_params_worker
+worker_id	old/datastore.h	/^  int worker_id;$/;"	m	struct:datastore_worker_params
+worker_id	old/lb_main.h	/^    uint32_t worker_id;$/;"	m	struct:app_lcore_params_worker
+worker_id	old/main.h	/^    uint32_t worker_id;$/;"	m	struct:app_lcore_params_worker
+worker_id	server/include/datastore.h	/^  int worker_id;$/;"	m	struct:datastore_worker_params
+worker_id	server/include/main.h	/^  uint32_t worker_id;$/;"	m	struct:app_lcore_params_worker
+workers	client/include/datastore.h	/^      workers[MAX_WORKER_CORE]; \/\/ the other struct is defined first so that we$/;"	m	struct:datastore_env_params	typeref:struct:datastore_env_params::datastore_worker_params
+workers	include/datastore.h	/^      workers[MAX_WORKER_CORE]; \/\/ the other struct is defined first so that we$/;"	m	struct:datastore_env_params	typeref:struct:datastore_env_params::datastore_worker_params
+workers	old/datastore.h	/^      workers[MAX_WORKER_CORE]; \/\/ the other struct is defined first so that we$/;"	m	struct:datastore_env_params	typeref:struct:datastore_env_params::datastore_worker_params
+workers	server/include/datastore.h	/^      workers[MAX_WORKER_CORE]; \/\/ the other struct is defined first so that we$/;"	m	struct:datastore_env_params	typeref:struct:datastore_env_params::datastore_worker_params
+workers	src_alternate/datastore.h	/^    struct datastore_worker_params workers[MAX_WORKER_CORE]; \/\/ the other struct is defined first so that we dont get the incomplete elment type error here$/;"	m	struct:datastore_env_params	typeref:struct:datastore_env_params::datastore_worker_params
+write_count	old/old_datastore.h	/^    uint32_t write_count;$/;"	m	struct:rocksdb_lcore_params
+write_keyval_pair	client/src/datastore.c	/^int write_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+write_keyval_pair	old/datastore.c	/^int write_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+write_keyval_pair	server/src/datastore.c	/^int write_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+write_keyval_pair	src/datastore.c	/^int write_keyval_pair(struct datastore_env_params *rocks, char *key,$/;"	f
+write_keyval_pair	src_alternate/datastore.c	/^int write_keyval_pair(struct datastore_worker_params *worker, char *key, size_t keylen, char *val, size_t vallen)$/;"	f
+write_options	client/include/datastore.h	/^  rocksdb_writeoptions_t *write_options;$/;"	m	struct:datastore_env_params
+write_options	include/datastore.h	/^  rocksdb_writeoptions_t *write_options;$/;"	m	struct:datastore_env_params
+write_options	old/datastore.h	/^  rocksdb_writeoptions_t *write_options;$/;"	m	struct:datastore_env_params
+write_options	old/old_datastore.h	/^    rocksdb_writeoptions_t *write_options;         \/\/ write options$/;"	m	struct:rocksdb_txdb_params
+write_options	server/include/datastore.h	/^  rocksdb_writeoptions_t *write_options;$/;"	m	struct:datastore_env_params
+write_options	src_alternate/datastore.h	/^    rocksdb_writeoptions_t *write_options;$/;"	m	struct:datastore_env_params
